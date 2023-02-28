@@ -24,19 +24,23 @@ class StarssData:
         self.original_data = None
         self.data = None
 
-        self.read_metadata(path_to_metadata)
-        self.prepare_data()  
+        list_metadata = self.find_metadata(path_to_metadata)
+        for data_path in list_metadata:
+            self.read_metadata(data_path)
+
+        self.prepare_data()
 
     def read_metadata(self, path_to_metadata) -> None:
         df = pd.read_csv(path_to_metadata, names=['frame_number', 'class_index', 'source_index', 'azimuth', 'elevation'])
-        self.original_data = df[["frame_number", "class_index"]]
+        df["filename"] = path_to_metadata.stem
+        self.original_data = pd.concat([self.original_data, df[["frame_number", "class_index", "filename"]]])
 
     def find_metadata(self, path) -> None:
         path = Path(path)
-        self.list_metadata = path.glob("**/*.csv")
+        return path.glob("**/*.csv")
 
     def exclude_multiple_noises(self, df: pd.DataFrame) -> pd.DataFrame:
-        df_count = df.groupby("frame_number", as_index=False).size()
+        df_count = df.groupby(["frame_number", "filename"], as_index=False).size()
         df = pd.merge(df, df_count)
         df = df[df["size"] == 1]
         return df
