@@ -24,3 +24,9 @@ The 13 sound classes are :
   12. Knock
 
 We remove the "Music" class (8), and keep the frames with only one class activated at a time.
+
+
+For each recording, the labels are provided in a CSV file :
+`[frame number (int)], [active class index (int)], [source number index (int)], [azimuth (int)], [elevation (int)]`
+
+A frame correspond to a temporal relolution of 100ms.
