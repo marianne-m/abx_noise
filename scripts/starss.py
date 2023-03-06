@@ -1,5 +1,6 @@
 import pandas as pd
 from pathlib import Path
+import matplotlib.pyplot as plt
 
 
 CLASSES = {
@@ -17,6 +18,24 @@ CLASSES = {
     11: "Bell",
     12: "Knock"
 }
+
+
+def cum_dur_by_class_graph(data: pd.DataFrame, fig_name: str) -> None:
+    """
+    Generate a graph plotting the cumulative duration by class
+    """
+    cum_dur_df = data[["class_index", "frame_number"]].groupby("class_index", as_index=False).count()
+    cum_dur_df = cum_dur_df.rename(columns={"frame_number": "duration"})
+    cum_dur_df["duration"] = cum_dur_df["duration"].map(lambda x: x/600) # get the duration in minutes
+    cum_dur_df["class_index"] = cum_dur_df["class_index"].map(lambda x: CLASSES[x])
+    cum_dur_df = cum_dur_df.set_index("class_index")
+
+    ax = cum_dur_df.plot.bar()
+    ax.set_ylabel("Duration (in minutes)")
+    ax.set_xlabel("Noise class")
+
+    plt.savefig(fig_name, bbox_inches="tight")
+
 
 class StarssData:
     """Class that manipulates metadata from the STARSS22 dataset"""
