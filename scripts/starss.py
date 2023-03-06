@@ -2,6 +2,21 @@ import pandas as pd
 from pathlib import Path
 import matplotlib.pyplot as plt
 
+# making plots look good
+import matplotlib.pyplot as plt
+import matplotlib
+
+plt.rcParams['text.usetex'] = False
+matplotlib.rcParams['font.family'] = 'sans-serif'
+matplotlib.rcParams['font.serif'] = 'Arial'
+matplotlib.rcParams.update({'font.size': 14, 'legend.handleheight':1, 'hatch.linewidth': 1.0,
+                           'lines.markersize':4, 'lines.linewidth':1.5,'xtick.labelsize':14})
+
+cm = 1/2.54
+H = 14.56
+W = 9
+
+# fig, ax = plt.subplots(1,1, figsize=(H*cm,W*cm), constrained_layout=True)
 
 CLASSES = {
     0: "Female speech, woman speaking",
@@ -35,6 +50,34 @@ def cum_dur_by_class_graph(data: pd.DataFrame, fig_name: str) -> None:
     ax.set_xlabel("Noise class")
 
     plt.savefig(fig_name, bbox_inches="tight")
+
+
+def cum_dur_by_multiple_classes(
+        data: pd.DataFrame,
+        fig_name: str,
+        max_classes: int = 2,
+        max_classes_on_graph: int = 15
+) -> None:
+    """
+    Generate a graph plotting the cumulative duration by class and combination
+    of two classes
+    """
+    # finding the combination of classes and only keeping 2 classes or less
+    cum_dur_df = data.groupby(["frame_number", "filename"], as_index=False).agg({'class_index': set})
+    cum_dur_df = cum_dur_df[cum_dur_df.class_index.map(len) <= max_classes]
+    cum_dur_df = cum_dur_df.astype({"class_index": "str"})
+
+    cum_dur_df = cum_dur_df[["class_index", "frame_number"]].groupby("class_index", as_index=False).count()
+    cum_dur_df = cum_dur_df.rename(columns={"frame_number": "duration"})
+    cum_dur_df["duration"] = cum_dur_df["duration"].map(lambda x: x/600) # get the duration in minutes
+    cum_dur_df = cum_dur_df.set_index("class_index")
+    cum_dur_df = cum_dur_df.sort_values("duration", ascending=False)
+
+    ax = cum_dur_df[:max_classes_on_graph].plot.bar()
+    ax.set_ylabel("Duration (in minutes)")
+    ax.set_xlabel("Noise class")
+
+    plt.savefig(fig_name, bbox_inches="tight")    
 
 
 def nb_of_files_by_class_graph(data: pd.DataFrame, fig_name: str) -> None:
