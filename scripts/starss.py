@@ -37,6 +37,24 @@ def cum_dur_by_class_graph(data: pd.DataFrame, fig_name: str) -> None:
     plt.savefig(fig_name, bbox_inches="tight")
 
 
+def nb_of_files_by_class_graph(data: pd.DataFrame, fig_name: str) -> None:
+    """
+    Generate a graph plotting the cumulative duration by class
+    """
+    nb_of_files = data[["class_index", "filename"]].drop_duplicates() \
+                                                   .groupby("class_index", as_index=False) \
+                                                   .count()
+    nb_of_files = nb_of_files.rename(columns={"filename": "nb_of_files"})
+    nb_of_files["class_index"] = nb_of_files["class_index"].map(lambda x: CLASSES[x])
+    nb_of_files = nb_of_files.set_index("class_index")
+
+    ax = nb_of_files.plot.bar()
+    ax.set_ylabel("Number of files")
+    ax.set_xlabel("Noise class")
+
+    plt.savefig(fig_name, bbox_inches="tight")
+
+
 class StarssData:
     """Class that manipulates metadata from the STARSS22 dataset"""
     def __init__(self, path_to_metadata) -> None:
