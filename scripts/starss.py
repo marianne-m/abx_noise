@@ -1,9 +1,9 @@
 import pandas as pd
 from pathlib import Path
 import matplotlib.pyplot as plt
+from os import makedirs
 
 # making plots look good
-import matplotlib.pyplot as plt
 import matplotlib
 
 plt.rcParams['text.usetex'] = False
@@ -136,8 +136,21 @@ class StarssData:
     def generate_item_files(self, noise_duration: int = 100) -> None:
         pass
 
-    def generate_graphes(self) -> None:
+    def generate_graphes(self, path_to_graph: str) -> None:
         """
-        nb_files / class, cumulative_duration / class for original and filtered data
+        Generated the following plots :
+            - cumulative duration by class for original data
+            - cumulative duration by clase for filtered data
+            - number of files by class for original data
+            - number of files by class for filtered data
+            - cumulative duration by multiple classes for original data
         """
-        pass
+        makedirs(path_to_graph, exist_ok=True)
+
+        cum_dur_by_class_graph(self.original_data, Path(path_to_graph) / "cum_dur_by_class_before_filter.png")
+        cum_dur_by_class_graph(self.data, Path(path_to_graph) / "cum_dur_by_class_filtered.png")
+
+        nb_of_files_by_class_graph(self.original_data, Path(path_to_graph) / "nb_of_files_by_class_before_filter.png")
+        nb_of_files_by_class_graph(self.data, Path(path_to_graph) / "nb_of_files_by_class_filtered.png")
+
+        cum_dur_by_multiple_classes(self.original_data, Path(path_to_graph) / "cum_dur_by_multiple_classes_original_data.png")
