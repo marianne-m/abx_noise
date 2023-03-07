@@ -120,6 +120,7 @@ class StarssData:
         return path.glob("**/*.csv")
 
     def exclude_multiple_noises(self, df: pd.DataFrame) -> pd.DataFrame:
+        df = df.drop_duplicates()
         df_count = df.groupby(["frame_number", "filename"], as_index=False).size()
         df = pd.merge(df, df_count)
         df = df[df["size"] == 1]
