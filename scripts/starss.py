@@ -136,46 +136,60 @@ class StarssData:
         self.data = self.exclude_multiple_noises(self.original_data)
         self.data = self.remove_class(self.data)
 
+    def convert_df_to_item_file(self, dataframe: pd.DataFrame) -> None:
+        if "onset" not in dataframe.columns or "offset" not in dataframe.columns:
+            dataframe["onset"] = dataframe["frame_number"] / 10
+            dataframe["offset"] = dataframe["frame_number"] / 10
+
+        dataframe["label_1"] = "X"
+        dataframe["label_3"] = "X"
+
+        self.item_file = dataframe[["filename", "onset", "offset", "label_1", "class_index", "label_3"]]
+
     def generate_item_files(self, noise_duration: int = 100) -> None:
         """
         Generates .item files with noise duration (in ms)
         """
-        previous_class = None
-        previous_frame_nb = -10
-        previous_filename = str()
-        counter = 0
+        if noise_duration == 100:
+            self.convert_df_to_item_file(self.data)
 
-        grouping = int(noise_duration / 100)
-        grouped = defaultdict(list)
+        else:
+            previous_class = None
+            previous_frame_nb = -10
+            previous_filename = str()
+            counter = 0
 
-        for row in self.data.iterrows():
-            frame_nb = row[1]["frame_number"]
-            class_id = row[1]["class_index"]
-            filename = row[1]["filename"]
+            grouping = int(noise_duration / 100)
+            grouped = defaultdict(list)
 
-            if (previous_frame_nb + 1 == frame_nb) \
-                    and (previous_class == class_id) \
-                    and (previous_filename == filename):
-                counter += 1
-            else:
-                counter = 0
+            for row in self.data.iterrows():
+                frame_nb = row[1]["frame_number"]
+                class_id = row[1]["class_index"]
+                filename = row[1]["filename"]
 
-            if counter == grouping:
-                onset = (frame_nb - grouping) / 600
-                offset = frame_nb / 600
+                if (previous_frame_nb + 1 == frame_nb) \
+                        and (previous_class == class_id) \
+                        and (previous_filename == filename):
+                    counter += 1
+                else:
+                    counter = 0
 
-                grouped["onset"].append(onset)
-                grouped["offset"].append(offset)
-                grouped["class_index"].append(class_id)
-                grouped["filename"].append(filename)
+                if counter == grouping:
+                    onset = (frame_nb - grouping) / 10
+                    offset = frame_nb / 10
 
-                counter = 0
+                    grouped["onset"].append(onset)
+                    grouped["offset"].append(offset)
+                    grouped["class_index"].append(class_id)
+                    grouped["filename"].append(filename)
 
-            previous_class = class_id
-            previous_frame_nb = frame_nb
-            previous_filename = filename
+                    counter = 0
 
-        self.item_file = pd.DataFrame.from_dict(grouped)
+                previous_class = class_id
+                previous_frame_nb = frame_nb
+                previous_filename = filename
+
+            self.convert_df_to_item_file(pd.DataFrame.from_dict(grouped))
 
     def generate_graphes(self, path_to_graph: str) -> None:
         """
