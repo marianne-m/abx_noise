@@ -1,3 +1,4 @@
+from collections import defaultdict
 import pandas as pd
 from pathlib import Path
 import matplotlib.pyplot as plt
@@ -103,6 +104,7 @@ class StarssData:
     def __init__(self, path_to_metadata) -> None:
         self.original_data = None
         self.data = None
+        self.item_file = None
 
         list_metadata = self.find_metadata(path_to_metadata)
         for data_path in list_metadata:
@@ -135,11 +137,49 @@ class StarssData:
         self.data = self.remove_class(self.data)
 
     def generate_item_files(self, noise_duration: int = 100) -> None:
-        pass
+        """
+        Generates .item files with noise duration (in ms)
+        """
+        previous_class = None
+        previous_frame_nb = -10
+        previous_filename = str()
+        counter = 0
+
+        grouping = int(noise_duration / 100)
+        grouped = defaultdict(list)
+
+        for row in self.data.iterrows():
+            frame_nb = row[1]["frame_number"]
+            class_id = row[1]["class_index"]
+            filename = row[1]["filename"]
+
+            if (previous_frame_nb + 1 == frame_nb) \
+                    and (previous_class == class_id) \
+                    and (previous_filename == filename):
+                counter += 1
+            else:
+                counter = 0
+
+            if counter == grouping:
+                onset = (frame_nb - grouping) / 600
+                offset = frame_nb / 600
+
+                grouped["onset"].append(onset)
+                grouped["offset"].append(offset)
+                grouped["class_index"].append(class_id)
+                grouped["filename"].append(filename)
+
+                counter = 0
+
+            previous_class = class_id
+            previous_frame_nb = frame_nb
+            previous_filename = filename
+
+        self.item_file = pd.DataFrame.from_dict(grouped)
 
     def generate_graphes(self, path_to_graph: str) -> None:
         """
-        Generated the following plots :
+        Generates the following plots :
             - cumulative duration by class for original data
             - cumulative duration by clase for filtered data
             - number of files by class for original data
