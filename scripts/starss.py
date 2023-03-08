@@ -2,6 +2,7 @@ from collections import defaultdict
 import pandas as pd
 from pathlib import Path
 import matplotlib.pyplot as plt
+import logging
 from os import makedirs
 
 # making plots look good
@@ -34,6 +35,8 @@ CLASSES = {
     11: "Bell",
     12: "Knock"
 }
+
+logger = logging.getLogger(__name__)
 
 
 def cum_dur_by_class_graph(data: pd.DataFrame, fig_name: str) -> None:
@@ -146,10 +149,18 @@ class StarssData:
 
         self.item_file = dataframe[["filename", "onset", "offset", "label_1", "class_index", "label_3"]]
 
+    def save_item_file(self, path: str = ".") -> None:
+        if self.item_file is None:
+            logger.warning("The item file is empty. Please call 'generate_item_files' method.")
+        else:
+            makedirs(path, exist_ok=True)
+            self.item_file.to_csv(Path(path) / f"starss_{self.noise_duration}ms.item", sep=" ", header=False, index=False)
+
     def generate_item_files(self, noise_duration: int = 100) -> None:
         """
         Generates .item files with noise duration (in ms)
         """
+        self.noise_duration = noise_duration
         if noise_duration == 100:
             self.convert_df_to_item_file(self.data)
 
