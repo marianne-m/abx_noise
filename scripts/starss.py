@@ -36,6 +36,22 @@ CLASSES = {
     12: "Knock"
 }
 
+CLASSES_NAME = {
+    0: "Female speech",
+    1: "Male speech",
+    2: "Clapping",
+    3: "Telephone",
+    4: "Laughter",
+    5: "Domestic sounds",
+    6: "Walk, footsteps",
+    7: "Door",
+    8: "Music",
+    9: "Musical instrument",
+    10: "Water tap",
+    11: "Bell",
+    12: "Knock"
+}
+
 logger = logging.getLogger(__name__)
 
 
@@ -148,6 +164,7 @@ class StarssData:
         dataframe["label_3"] = "X"
         dataframe["speaker"] = "noise"
 
+        dataframe["class_index"] = dataframe["class_index"].map(CLASSES_NAME)
         self.item_file = dataframe[["filename", "onset", "offset", "class_index", "label_1", "label_3", "speaker"]]
 
     def save_item_file(self, path: str = ".") -> None:
