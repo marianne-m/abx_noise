@@ -191,7 +191,7 @@ class StarssData:
             previous_class = None
             previous_frame_nb = -10
             previous_filename = str()
-            counter = 0
+            counter = 1
 
             grouping = int(noise_duration / 100)
             grouped = defaultdict(list)
@@ -206,11 +206,11 @@ class StarssData:
                         and (previous_filename == filename):
                     counter += 1
                 else:
-                    counter = 0
+                    counter = 1
 
                 if counter == grouping:
-                    onset = (frame_nb - grouping) / 10
-                    offset = frame_nb / 10
+                    onset = (frame_nb - grouping + 1) / 10
+                    offset = (frame_nb + 1) / 10
 
                     grouped["onset"].append(onset)
                     grouped["offset"].append(offset)
