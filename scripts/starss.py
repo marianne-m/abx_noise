@@ -146,15 +146,21 @@ class StarssData:
 
         dataframe["label_1"] = "X"
         dataframe["label_3"] = "X"
+        dataframe["speaker"] = "noise"
 
-        self.item_file = dataframe[["filename", "onset", "offset", "label_1", "class_index", "label_3"]]
+        self.item_file = dataframe[["filename", "onset", "offset", "class_index", "label_1", "label_3", "speaker"]]
 
     def save_item_file(self, path: str = ".") -> None:
         if self.item_file is None:
             logger.warning("The item file is empty. Please call 'generate_item_files' method.")
         else:
             makedirs(path, exist_ok=True)
-            self.item_file.to_csv(Path(path) / f"starss_{self.noise_duration}ms.item", sep=" ", header=False, index=False)
+            self.item_file.to_csv(
+                Path(path) / f"starss_{self.noise_duration}ms.item",
+                sep=" ",
+                header=["#file", "onset", "offset", "#phone", "prev-phone", "next-phone", "speaker"],
+                index=False
+            )
 
     def generate_item_files(self, noise_duration: int = 100) -> None:
         """
