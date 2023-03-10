@@ -55,14 +55,21 @@ CLASSES_NAME = {
 logger = logging.getLogger(__name__)
 
 
-def cum_dur_by_class_graph(data: pd.DataFrame, fig_name: str) -> None:
+def cum_dur_by_class_graph(
+        data: pd.DataFrame,
+        fig_name: str,
+        frame_dur: int = 100,
+        classes_index: bool = True,
+        ms_to_min: int = 60000
+) -> None:
     """
     Generate a graph plotting the cumulative duration by class
     """
     cum_dur_df = data[["class_index", "frame_number"]].groupby("class_index", as_index=False).count()
     cum_dur_df = cum_dur_df.rename(columns={"frame_number": "duration"})
-    cum_dur_df["duration"] = cum_dur_df["duration"].map(lambda x: x/600) # get the duration in minutes
-    cum_dur_df["class_index"] = cum_dur_df["class_index"].map(lambda x: CLASSES[x])
+    cum_dur_df["duration"] = cum_dur_df["duration"] * frame_dur / ms_to_min # get the duration in minutes
+    if classes_index:
+        cum_dur_df["class_index"] = cum_dur_df["class_index"].map(lambda x: CLASSES[x])
     cum_dur_df = cum_dur_df.set_index("class_index")
 
     ax = cum_dur_df.plot.bar()
@@ -89,7 +96,7 @@ def cum_dur_by_multiple_classes(
 
     cum_dur_df = cum_dur_df[["class_index", "frame_number"]].groupby("class_index", as_index=False).count()
     cum_dur_df = cum_dur_df.rename(columns={"frame_number": "duration"})
-    cum_dur_df["duration"] = cum_dur_df["duration"].map(lambda x: x/600) # get the duration in minutes
+    cum_dur_df["duration"] = cum_dur_df["duration"] / 600 # get the duration in minutes
     cum_dur_df = cum_dur_df.set_index("class_index")
     cum_dur_df = cum_dur_df.sort_values("duration", ascending=False)
 
