@@ -37,17 +37,17 @@ CLASSES = {
 }
 
 CLASSES_NAME = {
-    0: "Female speech",
-    1: "Male speech",
+    0: "Female_speech",
+    1: "Male_speech",
     2: "Clapping",
     3: "Telephone",
     4: "Laughter",
-    5: "Domestic sounds",
-    6: "Walk, footsteps",
+    5: "Domestic_sounds",
+    6: "Walk_footsteps",
     7: "Door",
     8: "Music",
-    9: "Musical instrument",
-    10: "Water tap",
+    9: "Musical_instrument",
+    10: "Water_tap",
     11: "Bell",
     12: "Knock"
 }
