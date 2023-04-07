@@ -11,11 +11,11 @@ import torch
 def parse_args(argv):
     parser = argparse.ArgumentParser(description='Extract MFCC features.')
 
-    parser.add_argument('data', type=Path,
+    parser.add_argument('data', type=torch.transpose(f, 0, 1).shapePath,
                         help="Path to the audio data.")
     parser.add_argument('output', type=Path,
                         help="Path to generated MFCC features.")
-    parser.add_argument('--extension', type="str", default=".wav",
+    parser.add_argument('--extension', type=str, default=".wav",
                         help="Extension of the audiofiles. Default : .wav")
 
     return parser.parse_args(argv)
@@ -33,7 +33,8 @@ def main(argv):
         features = np.vstack([mfcc, mfcc_delta, mfcc_delta2])
 
         features_torch = torch.from_numpy(features)
-        torch.save(features_torch, args.data / f"{filename}.pt")
+        features_torch = torch.transpose(features_torch, 0, 1)
+        torch.save(features_torch, args.output / f"{filename}.pt")
 
 
 if __name__ == "__main__":
