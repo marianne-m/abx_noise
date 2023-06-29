@@ -131,12 +131,14 @@ class StarssData:
         self.original_data = None
         self.data = None
         self.item_file = None
+        self.metadata_classes = None
 
         list_metadata = self.find_metadata(path_to_metadata)
         for data_path in list_metadata:
             self.read_metadata(data_path)
 
         self.prepare_data()
+        self.generate_metadata_classes()
 
     def read_metadata(self, path_to_metadata) -> None:
         df = pd.read_csv(path_to_metadata, names=['frame_number', 'class_index', 'source_index', 'azimuth', 'elevation'])
@@ -161,6 +163,9 @@ class StarssData:
     def prepare_data(self) -> None:
         self.data = self.exclude_multiple_noises(self.original_data)
         self.data = self.remove_class(self.data)
+
+    def save_metadata_classes(self, path: str) -> None:
+        self.metadata_classes.to_csv(path)
 
     def convert_df_to_item_file(self, dataframe: pd.DataFrame) -> None:
         if "onset" not in dataframe.columns or "offset" not in dataframe.columns:
@@ -250,3 +255,30 @@ class StarssData:
         nb_of_files_by_class_graph(self.data, Path(path_to_graph) / "nb_of_files_by_class_filtered.png")
 
         cum_dur_by_multiple_classes(self.original_data, Path(path_to_graph) / "cum_dur_by_multiple_classes_original_data.png")
+
+    def generate_metadata_classes(self) -> None:
+        """
+        Create a metadata file with classes, onset and offset for each sound
+        """
+        onset, offset, current_file, current_class, current_frame_number = -1, -1, "", -1, -10
+        noise = []
+
+        for index, row in self.data.iterrows():
+            if (row["filename"] == current_file) and \
+                    (row["class_index"] == current_class) and \
+                    (current_frame_number == (row["frame_number"] - 1)):
+                offset = row["frame_number"]
+            else:
+                if index > 0:
+                    noise.append([current_file, onset, offset, current_class])
+                onset = row["frame_number"]
+                offset = row["frame_number"]
+            current_frame_number, current_class, current_file, _ = row
+
+        noise.append([current_file, onset, offset, current_class])
+
+        data_df = pd.DataFrame(noise, columns=["file", "onset", "offset", "class"])
+        data_df["onset"] = data_df["onset"] / 10
+        data_df["offset"] = data_df["offset"] / 10
+
+        self.metadata_classes = data_df
