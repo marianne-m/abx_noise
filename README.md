@@ -62,6 +62,7 @@ We added the following classes from AudioSet:
 - Walk, footsteps
 - Water tap
 
+The final item files are in : `item_files/item_files_merged`
 
 ## Evaluation scripts
 
