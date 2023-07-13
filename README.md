@@ -48,6 +48,10 @@ The classes kept from Dcase are :
 - Female speech
 - Domestic sounds : seperated in two classes Vacuum cleaner and Air conditioning
 
+To separate domestic sounds, we used two additional labels on Dcase:
+  13. Vacuum Cleaner
+  14. Air Conditioning
+
 We added the following classes from AudioSet:
 - Air conditioning
 - Baby Cry
@@ -63,7 +67,13 @@ We added the following classes from AudioSet:
 
 To compute the ABX score, use [CPC2](https://github.com/MarvinLvn/CPC2/tree/master).
 
+You can use the launchers in `launchers`
+
 The item files are in `./item_files/final_merged`
+
 The audiofiles are on Jean Zay : `/gpfswork/rech/xdz/commun/abx_noise/audiofiles`
 
-## Scripts to generate figures
+
+## Plot graphs
+
+You can use `scripts/plot_abx.py` to plot the mean and std ABX error rate according to training duration.
