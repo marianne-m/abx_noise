@@ -1,0 +1,20 @@
+{
+  "load": "from_checkpoint",
+  "debug": false,
+  "feature_size": 0.01,
+  "cuda": true,
+  "mode": "within",
+  "max_size_group": 20,
+  "max_x_across": 5,
+  "out": "/gpfswork/rech/xdz/commun/abx_noise/out_with_speech/librivox/1000",
+  "level_gru": null,
+  "path_checkpoint": "/gpfsscratch/rech/xdz/commun/audiobooks_vs_longforms/librivox_training/English_LibriVox_extracted_full_random/1024h/00/cpc_small/checkpoint_22.pt",
+  "path_item_file": "/gpfswork/rech/xdz/commun/abx_noise/final_item_files/item_files_merged_with_speech/final_1000ms.item",
+  "path_dataset": "/gpfswork/rech/xdz/commun/abx_noise/audiofiles",
+  "seq_norm": false,
+  "max_size_seq": 128000,
+  "strict": true,
+  "file_extension": ".wav",
+  "get_encoded": false,
+  "num_processes": 40
+}

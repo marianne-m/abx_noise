@@ -1,0 +1,14 @@
+{
+  "load": "from_pre_computed",
+  "debug": false,
+  "feature_size": 0.01,
+  "cuda": true,
+  "mode": "within",
+  "max_size_group": 20,
+  "max_x_across": 5,
+  "out": "/gpfswork/rech/xdz/commun/abx_noise/out_with_speech/mfccs/500",
+  "level_gru": null,
+  "path_item_file": "/gpfswork/rech/xdz/commun/abx_noise/final_item_files/item_files_merged_with_speech/final_500ms.item",
+  "path_dataset": "/gpfswork/rech/xdz/commun/abx_noise/mfccs",
+  "file_extension": ".pt"
+}
