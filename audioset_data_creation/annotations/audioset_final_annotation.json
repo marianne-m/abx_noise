@@ -1,0 +1,6169 @@
+[
+  {
+    "audio": "\/data\/upload\/3\/af5fdde5-Watertap_TNxF-rdZaV4_20000_30000.wav",
+    "id": 26,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 3,
+    "created_at": "2023-06-19T07:41:35.105384Z",
+    "updated_at": "2023-06-19T07:41:35.105401Z",
+    "lead_time": 29.247
+  },
+  {
+    "audio": "\/data\/upload\/3\/a23e1b84-Watertap_P3wtGlsFef8_0_10000.wav",
+    "id": 27,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 4,
+    "created_at": "2023-06-19T07:59:59.147353Z",
+    "updated_at": "2023-06-19T07:59:59.147425Z",
+    "lead_time": 1099.95
+  },
+  {
+    "audio": "\/data\/upload\/3\/6ce7e64b-Watertap_kovejzcdYG4_10000_20000.wav",
+    "id": 28,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 5,
+    "created_at": "2023-06-19T08:00:25.456026Z",
+    "updated_at": "2023-06-19T08:00:25.456042Z",
+    "lead_time": 24.647
+  },
+  {
+    "audio": "\/data\/upload\/3\/5333426c-Watertap_f6D4W9Rktrg_40000_50000.wav",
+    "id": 29,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 6,
+    "created_at": "2023-06-19T08:01:03.328432Z",
+    "updated_at": "2023-06-19T08:01:03.328448Z",
+    "lead_time": 36.469
+  },
+  {
+    "audio": "\/data\/upload\/3\/3472ef48-Watertap_EMaLPLoWI1Q_10000_20000.wav",
+    "id": 30,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 7,
+    "created_at": "2023-06-19T08:01:36.467482Z",
+    "updated_at": "2023-06-19T08:01:36.467566Z",
+    "lead_time": 31.191
+  },
+  {
+    "audio": "\/data\/upload\/3\/7a04d93d-Watertap_zUJljr3TUcM_300000_310000.wav",
+    "id": 31,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 8,
+    "created_at": "2023-06-19T08:02:03.649784Z",
+    "updated_at": "2023-06-19T08:02:03.649802Z",
+    "lead_time": 25.545
+  },
+  {
+    "audio": "\/data\/upload\/3\/b2c98d4a-Watertap_YQBfxnxJPRY_0_10000.wav",
+    "id": 32,
+    "label": [
+      {
+        "start": 1.1007462686567164,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9,
+    "created_at": "2023-06-19T08:02:41.117352Z",
+    "updated_at": "2023-06-19T08:02:41.117369Z",
+    "lead_time": 36.064
+  },
+  {
+    "audio": "\/data\/upload\/3\/f96ace56-Watertap_ro6ezcf04qE_80000_90000.wav",
+    "id": 33,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 10,
+    "created_at": "2023-06-19T08:03:08.761149Z",
+    "updated_at": "2023-06-19T08:03:08.761166Z",
+    "lead_time": 25.849
+  },
+  {
+    "audio": "\/data\/upload\/3\/fd888682-Watertap_MXG0NVb4pX0_120000_130000.wav",
+    "id": 34,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 11,
+    "created_at": "2023-06-19T08:03:52.465632Z",
+    "updated_at": "2023-06-19T08:03:52.465679Z",
+    "lead_time": 18.225
+  },
+  {
+    "audio": "\/data\/upload\/3\/89f69ec6-Watertap_iBl56Bdt5cA_20000_30000.wav",
+    "id": 35,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 12,
+    "created_at": "2023-06-19T08:04:21.196309Z",
+    "updated_at": "2023-06-19T08:04:21.196327Z",
+    "lead_time": 26.15
+  },
+  {
+    "audio": "\/data\/upload\/3\/5e8590a0-Watertap_6-6-tccnKLk_260000_270000.wav",
+    "id": 36,
+    "label": [
+      {
+        "start": 0,
+        "end": 6.67910447761194,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 13,
+    "created_at": "2023-06-19T08:04:49.629717Z",
+    "updated_at": "2023-06-19T08:04:49.629757Z",
+    "lead_time": 25.303
+  },
+  {
+    "audio": "\/data\/upload\/3\/7ea0d8cb-Walkfootsteps_zVKfoTGG2nc_20000_30000.wav",
+    "id": 37,
+    "label": [
+      {
+        "start": 0.18656716417910446,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 14,
+    "created_at": "2023-06-19T13:30:00.860545Z",
+    "updated_at": "2023-06-19T13:30:00.860582Z",
+    "lead_time": 31.057
+  },
+  {
+    "audio": "\/data\/upload\/3\/9306006f-Walkfootsteps_WbebwGlA9Pw_0_10000.wav",
+    "id": 38,
+    "label": [
+      {
+        "start": 2.7052238805970146,
+        "end": 9.981343283582088,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 15,
+    "created_at": "2023-06-19T13:30:21.307178Z",
+    "updated_at": "2023-06-19T13:30:21.307201Z",
+    "lead_time": 18.668
+  },
+  {
+    "audio": "\/data\/upload\/3\/2dda37ab-Walkfootsteps_Vgtemc6ukjc_8000_18000.wav",
+    "id": 39,
+    "label": [
+      {
+        "start": 0,
+        "end": 9,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 16,
+    "created_at": "2023-06-19T13:30:45.875440Z",
+    "updated_at": "2023-06-19T13:30:45.875459Z",
+    "lead_time": 23.024
+  },
+  {
+    "audio": "\/data\/upload\/3\/450f4126-Walkfootsteps_q9xH-54Oi4w_3000_13000.wav",
+    "id": 40,
+    "label": [
+      {
+        "start": 0,
+        "end": 6.3638059701492535,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 17,
+    "created_at": "2023-06-19T13:31:03.369146Z",
+    "updated_at": "2023-06-19T13:31:03.369164Z",
+    "lead_time": 15.365
+  },
+  {
+    "audio": "\/data\/upload\/3\/2fe57c59-Walkfootsteps_N_hD6wrJyfY_100000_110000.wav",
+    "id": 41,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 18,
+    "created_at": "2023-06-19T13:32:10.334145Z",
+    "updated_at": "2023-06-19T13:32:10.334178Z",
+    "lead_time": 60.663
+  },
+  {
+    "audio": "\/data\/upload\/3\/3b4ae3fe-Walkfootsteps_fUoEKgkoM38_10000_20000.wav",
+    "id": 42,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 19,
+    "created_at": "2023-06-19T13:32:37.490333Z",
+    "updated_at": "2023-06-19T13:32:37.490349Z",
+    "lead_time": 25.36
+  },
+  {
+    "audio": "\/data\/upload\/3\/787f511d-Walkfootsteps_emYtWKL5NZ4_30000_40000.wav",
+    "id": 43,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 20,
+    "created_at": "2023-06-19T13:33:03.592569Z",
+    "updated_at": "2023-06-19T13:33:03.592587Z",
+    "lead_time": 24.679
+  },
+  {
+    "audio": "\/data\/upload\/3\/84ccdd24-Walkfootsteps_bNbk6xiC-YA_1000_11000.wav",
+    "id": 44,
+    "label": [
+      {
+        "start": 0.8395522388059702,
+        "end": 8.46268656716418,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 21,
+    "created_at": "2023-06-19T13:34:05.747359Z",
+    "updated_at": "2023-06-19T13:34:05.747377Z",
+    "lead_time": 15.926
+  },
+  {
+    "audio": "\/data\/upload\/3\/8a9408ea-Walkfootsteps_AackN-nURQk_30000_40000.wav",
+    "id": 45,
+    "label": [
+      {
+        "start": 0,
+        "end": 1.1753731343283582,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 22,
+    "created_at": "2023-06-19T13:57:03.850320Z",
+    "updated_at": "2023-06-19T13:57:03.850342Z",
+    "lead_time": 21.115
+  },
+  {
+    "audio": "\/data\/upload\/3\/04baa7e4-Walkfootsteps_4muU1IZF1kw_130000_140000.wav",
+    "id": 46,
+    "label": [
+      {
+        "start": 0,
+        "end": 5.522388059701493,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 23,
+    "created_at": "2023-06-19T13:57:27.914820Z",
+    "updated_at": "2023-06-19T13:57:27.914838Z",
+    "lead_time": 22.538
+  },
+  {
+    "audio": "\/data\/upload\/3\/0c870861-Walkfootsteps_3iUFXHpdp-w_360000_370000.wav",
+    "id": 47,
+    "annotator": 1,
+    "annotation_id": 24,
+    "created_at": "2023-06-19T13:57:39.791952Z",
+    "updated_at": "2023-06-19T13:57:39.791968Z",
+    "lead_time": 9.332
+  },
+  {
+    "audio": "\/data\/upload\/3\/231e09da-Walkfootsteps_2YKWINi2fys_30000_40000.wav",
+    "id": 48,
+    "label": [
+      {
+        "start": 1.119402985074627,
+        "end": 4.384328358208956,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 25,
+    "created_at": "2023-06-19T13:58:08.578381Z",
+    "updated_at": "2023-06-19T13:58:08.578399Z",
+    "lead_time": 26.065
+  },
+  {
+    "audio": "\/data\/upload\/3\/e5fb13bc-Walkfootsteps_2C4JEfzUsFY_30000_40000.wav",
+    "id": 49,
+    "annotator": 1,
+    "annotation_id": 26,
+    "created_at": "2023-06-19T13:58:33.120391Z",
+    "updated_at": "2023-06-19T13:58:33.120410Z",
+    "lead_time": 22.962
+  },
+  {
+    "audio": "\/data\/upload\/3\/747ec85c-Walkfootsteps_1_NYtHhpglQ_30000_40000.wav",
+    "id": 50,
+    "annotator": 1,
+    "annotation_id": 27,
+    "created_at": "2023-06-19T13:58:54.690920Z",
+    "updated_at": "2023-06-19T13:58:54.690938Z",
+    "lead_time": 14.455
+  },
+  {
+    "audio": "\/data\/upload\/3\/85ef1272-Walkfootsteps_1GlK9CiuIco_3000_13000.wav",
+    "id": 51,
+    "label": [
+      {
+        "start": 4.1809701492537314,
+        "end": 8.110074626865671,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 28,
+    "created_at": "2023-06-19T13:59:13.777437Z",
+    "updated_at": "2023-06-19T13:59:13.777453Z",
+    "lead_time": 17.774
+  },
+  {
+    "audio": "\/data\/upload\/3\/dd0fe81d-Walkfootsteps_1a_IHFaIC3I_0_8000.wav",
+    "id": 52,
+    "annotator": 1,
+    "annotation_id": 29,
+    "created_at": "2023-06-19T13:59:26.270067Z",
+    "updated_at": "2023-06-19T13:59:26.270085Z",
+    "lead_time": 10.417
+  },
+  {
+    "audio": "\/data\/upload\/3\/37c0dde7-Walkfootsteps_0VwRpuGNnWk_30000_40000.wav",
+    "id": 53,
+    "annotator": 1,
+    "annotation_id": 30,
+    "created_at": "2023-06-19T13:59:40.670796Z",
+    "updated_at": "2023-06-19T13:59:40.670814Z",
+    "lead_time": 12.259
+  },
+  {
+    "audio": "\/data\/upload\/3\/4c82f525-Walkfootsteps_08DCUoHmnIE_30000_40000.wav",
+    "id": 54,
+    "annotator": 1,
+    "annotation_id": 31,
+    "created_at": "2023-06-19T14:00:24.478328Z",
+    "updated_at": "2023-06-19T14:00:24.478348Z",
+    "lead_time": 16.816
+  },
+  {
+    "audio": "\/data\/upload\/3\/d70255f7-Vacuumcleaner_ZXi-G9ZI2Ys_0_10000.wav",
+    "id": 55,
+    "label": [
+      {
+        "start": 1.7350746268656716,
+        "end": 6.735074626865671,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 32,
+    "created_at": "2023-06-19T14:01:00.381200Z",
+    "updated_at": "2023-06-19T14:01:19.085401Z",
+    "lead_time": 49.366
+  },
+  {
+    "audio": "\/data\/upload\/3\/5041b140-Vacuumcleaner_ywrw5qF2q8M_30000_40000.wav",
+    "id": 56,
+    "annotator": 1,
+    "annotation_id": 33,
+    "created_at": "2023-06-19T14:01:33.086637Z",
+    "updated_at": "2023-06-19T14:01:33.086700Z",
+    "lead_time": 12.177
+  },
+  {
+    "audio": "\/data\/upload\/3\/d5174df8-Vacuumcleaner_YqYEN7wYRmE_40000_50000.wav",
+    "id": 57,
+    "label": [
+      {
+        "start": 0,
+        "end": 3.9365671641791042,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 34,
+    "created_at": "2023-06-20T07:15:16.294885Z",
+    "updated_at": "2023-06-20T07:15:16.294921Z",
+    "lead_time": 15.83
+  },
+  {
+    "audio": "\/data\/upload\/3\/a4c91034-Vacuumcleaner_yNmnmechXWk_60000_70000.wav",
+    "id": 58,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 35,
+    "created_at": "2023-06-20T07:15:38.250262Z",
+    "updated_at": "2023-06-20T07:15:38.250294Z",
+    "lead_time": 19.984
+  },
+  {
+    "audio": "\/data\/upload\/3\/7547ab40-Vacuumcleaner_X8_ALjDFxIU_300000_310000.wav",
+    "id": 59,
+    "annotator": 1,
+    "annotation_id": 36,
+    "created_at": "2023-06-20T07:15:57.598309Z",
+    "updated_at": "2023-06-20T07:15:57.598358Z",
+    "lead_time": 16.011
+  },
+  {
+    "audio": "\/data\/upload\/3\/fbaec6e2-Vacuumcleaner_w1S_jzCkBkc_50000_60000.wav",
+    "id": 60,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 37,
+    "created_at": "2023-06-20T07:19:47.778528Z",
+    "updated_at": "2023-06-20T07:19:47.778560Z",
+    "lead_time": 17.996
+  },
+  {
+    "audio": "\/data\/upload\/3\/06ca0be1-Vacuumcleaner_VvWIbJRyWkQ_50000_60000.wav",
+    "id": 61,
+    "label": [
+      {
+        "start": 0.6529850746268656,
+        "end": 4.197761194029851,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 38,
+    "created_at": "2023-06-20T07:20:11.021714Z",
+    "updated_at": "2023-06-20T07:20:11.021750Z",
+    "lead_time": 21.237
+  },
+  {
+    "audio": "\/data\/upload\/3\/8c7d207d-Vacuumcleaner_tbonAxTHHEg_100000_110000.wav",
+    "id": 62,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 39,
+    "created_at": "2023-06-20T07:20:43.166147Z",
+    "updated_at": "2023-06-20T07:20:43.166178Z",
+    "lead_time": 24.615
+  },
+  {
+    "audio": "\/data\/upload\/3\/91874286-Vacuumcleaner_T4-qkbbbBW4_50000_60000.wav",
+    "id": 63,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 40,
+    "created_at": "2023-06-20T07:32:20.328021Z",
+    "updated_at": "2023-06-20T07:32:20.328052Z",
+    "lead_time": 28.899
+  },
+  {
+    "audio": "\/data\/upload\/3\/661ec5f8-Vacuumcleaner_prISe-x18t4_0_10000.wav",
+    "id": 64,
+    "label": [
+      {
+        "start": 0.9328358208955224,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 41,
+    "created_at": "2023-06-20T07:32:41.164461Z",
+    "updated_at": "2023-06-20T07:32:41.164506Z",
+    "lead_time": 18.993
+  },
+  {
+    "audio": "\/data\/upload\/3\/78a85013-Vacuumcleaner_PLDOqhVq23Q_550000_560000.wav",
+    "id": 65,
+    "annotator": 1,
+    "annotation_id": 42,
+    "created_at": "2023-06-20T07:34:21.404274Z",
+    "updated_at": "2023-06-20T07:34:21.404309Z",
+    "lead_time": 13.499
+  },
+  {
+    "audio": "\/data\/upload\/3\/e2cbc27e-Vacuumcleaner_-OMdnou20dc_30000_40000.wav",
+    "id": 66,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 43,
+    "created_at": "2023-06-20T07:34:41.962271Z",
+    "updated_at": "2023-06-20T07:34:41.962304Z",
+    "lead_time": 18.613
+  },
+  {
+    "audio": "\/data\/upload\/3\/cd5a915f-Vacuumcleaner_NcGd4fjy5KM_40000_50000.wav",
+    "id": 67,
+    "label": [
+      {
+        "start": 0.6156716417910447,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 44,
+    "created_at": "2023-06-20T07:35:09.633659Z",
+    "updated_at": "2023-06-20T07:35:09.633694Z",
+    "lead_time": 23.093
+  },
+  {
+    "audio": "\/data\/upload\/3\/50c3095b-Vacuumcleaner_MwoLwkYOtqM_240000_250000.wav",
+    "id": 68,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 45,
+    "created_at": "2023-06-20T07:35:42.852225Z",
+    "updated_at": "2023-06-20T07:35:42.852259Z",
+    "lead_time": 30.719
+  },
+  {
+    "audio": "\/data\/upload\/3\/98fd2407-Vacuumcleaner_mqeCehWbApI_50000_60000.wav",
+    "id": 69,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 46,
+    "created_at": "2023-06-20T07:57:35.553394Z",
+    "updated_at": "2023-06-20T07:57:35.553427Z",
+    "lead_time": 20.177
+  },
+  {
+    "audio": "\/data\/upload\/3\/c332780e-Vacuumcleaner_7W_nNAwMKfk_110000_120000.wav",
+    "id": 70,
+    "annotator": 1,
+    "annotation_id": 47,
+    "created_at": "2023-06-20T07:57:52.778538Z",
+    "updated_at": "2023-06-20T07:57:52.778576Z",
+    "lead_time": 15.728
+  },
+  {
+    "audio": "\/data\/upload\/3\/b8837bfb-Vacuumcleaner_7a26CcKCj94_90000_100000.wav",
+    "id": 71,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 48,
+    "created_at": "2023-06-20T07:58:15.775189Z",
+    "updated_at": "2023-06-20T07:58:15.775224Z",
+    "lead_time": 21.239
+  },
+  {
+    "audio": "\/data\/upload\/3\/38f1f5d4-Vacuumcleaner_6wzuvIz_91g_70000_80000.wav",
+    "id": 72,
+    "annotator": 1,
+    "annotation_id": 49,
+    "created_at": "2023-06-20T07:58:25.080284Z",
+    "updated_at": "2023-06-20T07:58:25.080316Z",
+    "lead_time": 5.854
+  },
+  {
+    "audio": "\/data\/upload\/3\/83ce9cd1-Vacuumcleaner__6MQP6iYahk_120000_130000.wav",
+    "id": 73,
+    "annotator": 1,
+    "annotation_id": 50,
+    "created_at": "2023-06-20T07:58:41.901399Z",
+    "updated_at": "2023-06-20T07:58:41.901449Z",
+    "lead_time": 13.651
+  },
+  {
+    "audio": "\/data\/upload\/3\/9458505a-Vacuumcleaner_6kD5Ya6JUbQ_350000_360000.wav",
+    "id": 74,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 51,
+    "created_at": "2023-06-20T07:59:07.195842Z",
+    "updated_at": "2023-06-20T07:59:07.195889Z",
+    "lead_time": 16.226
+  },
+  {
+    "audio": "\/data\/upload\/3\/43d9a1b7-Vacuumcleaner_6a2OyetkL0c_180000_190000.wav",
+    "id": 75,
+    "annotator": 1,
+    "annotation_id": 52,
+    "created_at": "2023-06-20T07:59:20.756090Z",
+    "updated_at": "2023-06-20T07:59:20.756148Z",
+    "lead_time": 11.896
+  },
+  {
+    "audio": "\/data\/upload\/3\/8851f9f4-Vacuumcleaner_5PXHXL89Kac_0_10000.wav",
+    "id": 76,
+    "label": [
+      {
+        "start": 1.8656716417910448,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 53,
+    "created_at": "2023-06-20T07:59:39.210148Z",
+    "updated_at": "2023-06-20T07:59:39.210234Z",
+    "lead_time": 16.562
+  },
+  {
+    "audio": "\/data\/upload\/3\/f3026eaf-Vacuumcleaner_3qYR12TI9Ic_180000_190000.wav",
+    "id": 77,
+    "annotator": 1,
+    "annotation_id": 54,
+    "created_at": "2023-06-20T07:59:53.629854Z",
+    "updated_at": "2023-06-20T07:59:53.629939Z",
+    "lead_time": 12.681
+  },
+  {
+    "audio": "\/data\/upload\/3\/739a022b-Vacuumcleaner_-3G-bs5JaW8_100000_110000.wav",
+    "id": 78,
+    "annotator": 1,
+    "annotation_id": 55,
+    "created_at": "2023-06-20T08:00:24.852994Z",
+    "updated_at": "2023-06-20T08:00:24.853032Z",
+    "lead_time": 29.282
+  },
+  {
+    "audio": "\/data\/upload\/3\/4a2f352f-Vacuumcleaner_3-BAZ9IRM1s_530000_540000.wav",
+    "id": 79,
+    "annotator": 1,
+    "annotation_id": 56,
+    "created_at": "2023-06-20T08:00:33.405635Z",
+    "updated_at": "2023-06-20T08:00:33.405682Z",
+    "lead_time": 6.907
+  },
+  {
+    "audio": "\/data\/upload\/3\/b35036f1-Vacuumcleaner_2KdHeWz8utE_60000_70000.wav",
+    "id": 80,
+    "annotator": 1,
+    "annotation_id": 57,
+    "created_at": "2023-06-20T08:00:37.216950Z",
+    "updated_at": "2023-06-20T08:01:05.408180Z",
+    "lead_time": 25.317999999999998
+  },
+  {
+    "audio": "\/data\/upload\/3\/453131ea-Vacuumcleaner_2eBQV6mzMfs_160000_170000.wav",
+    "id": 81,
+    "label": [
+      {
+        "start": 0,
+        "end": 7.10820895522388,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 58,
+    "created_at": "2023-06-20T08:01:28.151739Z",
+    "updated_at": "2023-06-20T08:01:28.151770Z",
+    "lead_time": 20.869
+  },
+  {
+    "audio": "\/data\/upload\/3\/66477477-Vacuumcleaner_1HQyUAfYFHw_0_10000.wav",
+    "id": 82,
+    "annotator": 1,
+    "annotation_id": 59,
+    "created_at": "2023-06-20T08:01:41.790224Z",
+    "updated_at": "2023-06-20T08:01:41.790255Z",
+    "lead_time": 12.06
+  },
+  {
+    "audio": "\/data\/upload\/3\/13721804-Vacuumcleaner_0o-DD4GwohU_110000_120000.wav",
+    "id": 83,
+    "label": [
+      {
+        "start": 0,
+        "end": 6.660447761194029,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 60,
+    "created_at": "2023-06-20T08:02:04.906958Z",
+    "updated_at": "2023-06-20T08:02:04.906991Z",
+    "lead_time": 21.793
+  },
+  {
+    "audio": "\/data\/upload\/3\/e11eaebd-Vacuumcleaner_0Fc42_i3G80_100000_110000.wav",
+    "id": 84,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 61,
+    "created_at": "2023-06-22T08:09:31.122173Z",
+    "updated_at": "2023-06-22T08:09:31.122212Z",
+    "lead_time": 25.267
+  },
+  {
+    "audio": "\/data\/upload\/3\/27694262-Rain_ZQ2sdI4yeHU_30000_40000.wav",
+    "id": 85,
+    "label": [
+      {
+        "start": 0,
+        "end": 5.895522388059701,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 62,
+    "created_at": "2023-06-22T08:09:54.512710Z",
+    "updated_at": "2023-06-22T08:09:54.512753Z",
+    "lead_time": 21.325
+  },
+  {
+    "audio": "\/data\/upload\/3\/28c2d10f-Rain_zfUMBAhPJ70_150000_160000.wav",
+    "id": 86,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 63,
+    "created_at": "2023-06-22T08:10:20.549814Z",
+    "updated_at": "2023-06-22T08:10:20.549847Z",
+    "lead_time": 24.513
+  },
+  {
+    "audio": "\/data\/upload\/3\/85da069f-Rain_YQBtGJRLZZM_20000_30000.wav",
+    "id": 87,
+    "annotator": 1,
+    "annotation_id": 64,
+    "created_at": "2023-06-22T08:10:38.884783Z",
+    "updated_at": "2023-06-22T08:10:38.884816Z",
+    "lead_time": 16.749
+  },
+  {
+    "audio": "\/data\/upload\/3\/e6db8aa0-Rain_xML1Kz1D0_s_30000_40000.wav",
+    "id": 88,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 65,
+    "created_at": "2023-06-22T08:11:03.323521Z",
+    "updated_at": "2023-06-22T08:11:41.456791Z",
+    "lead_time": 35.495999999999995
+  },
+  {
+    "audio": "\/data\/upload\/3\/a256886a-Rain_VM8R3i8Xgp4_110000_120000.wav",
+    "id": 89,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 66,
+    "created_at": "2023-06-22T08:11:27.026208Z",
+    "updated_at": "2023-06-22T08:11:27.026243Z",
+    "lead_time": 22.25
+  },
+  {
+    "audio": "\/data\/upload\/3\/69f28528-Rain_t6maXpuN5iI_230000_240000.wav",
+    "id": 90,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 67,
+    "created_at": "2023-06-22T08:12:05.390198Z",
+    "updated_at": "2023-06-22T08:12:05.390231Z",
+    "lead_time": 18.387
+  },
+  {
+    "audio": "\/data\/upload\/3\/a6656f91-Rain_R7V6jEYVjEo_210000_220000.wav",
+    "id": 91,
+    "label": [
+      {
+        "start": 0,
+        "end": 5.39179104477612,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 68,
+    "created_at": "2023-06-22T08:12:31.691531Z",
+    "updated_at": "2023-06-22T08:12:31.691564Z",
+    "lead_time": 22.536
+  },
+  {
+    "audio": "\/data\/upload\/3\/61853342-Rain_N5Fm_5JgOHA_30000_40000.wav",
+    "id": 92,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 69,
+    "created_at": "2023-06-22T08:12:53.961183Z",
+    "updated_at": "2023-06-22T08:12:53.961231Z",
+    "lead_time": 18.9
+  },
+  {
+    "audio": "\/data\/upload\/3\/4b45a02c-Rain_ID-Q_ePSkpw_11000_21000.wav",
+    "id": 93,
+    "label": [
+      {
+        "start": 1.0537306436567164,
+        "end": 4.982895755597015,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 70,
+    "created_at": "2023-06-22T08:13:25.628159Z",
+    "updated_at": "2023-06-22T08:13:25.628218Z",
+    "lead_time": 27.44
+  },
+  {
+    "audio": "\/data\/upload\/3\/e07fa7f2-Rain_HgsV9wnY7QU_130000_140000.wav",
+    "id": 94,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 71,
+    "created_at": "2023-06-22T08:13:51.248553Z",
+    "updated_at": "2023-06-22T08:13:51.248603Z",
+    "lead_time": 23.64
+  },
+  {
+    "audio": "\/data\/upload\/3\/386b7360-Rain_HbcN8vzJgOY_30000_40000.wav",
+    "id": 95,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 72,
+    "created_at": "2023-06-22T08:14:23.086844Z",
+    "updated_at": "2023-06-22T08:30:44.916586Z",
+    "lead_time": 1004.7249999999999
+  },
+  {
+    "audio": "\/data\/upload\/3\/b228c62d-Rain_G8HrMnU9RzE_240000_250000.wav",
+    "id": 96,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 73,
+    "created_at": "2023-06-22T08:31:03.333850Z",
+    "updated_at": "2023-06-22T08:31:03.333883Z",
+    "lead_time": 15.84
+  },
+  {
+    "audio": "\/data\/upload\/3\/088f2805-Rain_EWXmPcyQPWA_190000_200000.wav",
+    "id": 97,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 74,
+    "created_at": "2023-06-22T08:31:24.624954Z",
+    "updated_at": "2023-06-22T08:31:24.624998Z",
+    "lead_time": 19.704
+  },
+  {
+    "audio": "\/data\/upload\/3\/001c85d0-Rain_DOFRAZOtk4E_0_10000.wav",
+    "id": 98,
+    "label": [
+      {
+        "start": 0.09328358208955223,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 75,
+    "created_at": "2023-06-22T08:31:52.618054Z",
+    "updated_at": "2023-06-22T08:31:52.618086Z",
+    "lead_time": 26.588
+  },
+  {
+    "audio": "\/data\/upload\/3\/c7d22bc9-Rain_dKTjzQoa_1U_20000_30000.wav",
+    "id": 99,
+    "label": [
+      {
+        "start": 0,
+        "end": 4.029850746268656,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 76,
+    "created_at": "2023-06-22T08:32:11.249451Z",
+    "updated_at": "2023-06-22T08:32:11.249484Z",
+    "lead_time": 14.293
+  },
+  {
+    "audio": "\/data\/upload\/3\/6d5cd1d2-Rain_CN0vCGNkeks_13000_23000.wav",
+    "id": 100,
+    "label": [
+      {
+        "start": 0,
+        "end": 9.778813,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 77,
+    "created_at": "2023-06-22T08:32:49.443458Z",
+    "updated_at": "2023-06-22T08:32:49.443503Z",
+    "lead_time": 36.757
+  },
+  {
+    "audio": "\/data\/upload\/3\/47c389de-Rain_cBhjAUq6K8k_10000_20000.wav",
+    "id": 101,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 78,
+    "created_at": "2023-06-22T08:33:09.090018Z",
+    "updated_at": "2023-06-22T08:33:09.090063Z",
+    "lead_time": 17.546
+  },
+  {
+    "audio": "\/data\/upload\/3\/17984394-Rain_bPkVRDXLajA_15000_25000.wav",
+    "id": 102,
+    "label": [
+      {
+        "start": 0,
+        "end": 9.876063,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 79,
+    "created_at": "2023-06-22T08:33:30.948299Z",
+    "updated_at": "2023-06-22T08:33:30.948350Z",
+    "lead_time": 20.273
+  },
+  {
+    "audio": "\/data\/upload\/3\/e8d22316-Rain_Bhy29hKw7lo_90000_100000.wav",
+    "id": 103,
+    "annotator": 1,
+    "annotation_id": 80,
+    "created_at": "2023-06-22T08:33:44.132763Z",
+    "updated_at": "2023-06-22T08:33:44.132818Z",
+    "lead_time": 11.721
+  },
+  {
+    "audio": "\/data\/upload\/3\/d670d9bf-Rain_AXVKI6XyxHk_30000_40000.wav",
+    "id": 104,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 81,
+    "created_at": "2023-06-22T08:34:05.988649Z",
+    "updated_at": "2023-06-22T08:34:05.988709Z",
+    "lead_time": 20.554
+  },
+  {
+    "audio": "\/data\/upload\/3\/9d3199f6-Rain_9Uk8z4598ho_30000_40000.wav",
+    "id": 105,
+    "annotator": 1,
+    "annotation_id": 82,
+    "created_at": "2023-06-22T08:34:24.896116Z",
+    "updated_at": "2023-06-22T08:34:24.896147Z",
+    "lead_time": 17.14
+  },
+  {
+    "audio": "\/data\/upload\/3\/f407e10f-Rain_916W_uVka5w_9000_19000.wav",
+    "id": 106,
+    "label": [
+      {
+        "start": 0,
+        "end": 6.584033115671642,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 83,
+    "created_at": "2023-06-22T08:34:49.042195Z",
+    "updated_at": "2023-06-22T08:34:49.042244Z",
+    "lead_time": 22.262
+  },
+  {
+    "audio": "\/data\/upload\/3\/76558b4f-Rain_-6HGsGSiC64_0_8000.wav",
+    "id": 107,
+    "label": [
+      {
+        "start": 0.1402647014925373,
+        "end": 7.518188,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 84,
+    "created_at": "2023-06-22T08:35:07.595344Z",
+    "updated_at": "2023-06-22T08:35:07.595375Z",
+    "lead_time": 14.749
+  },
+  {
+    "audio": "\/data\/upload\/3\/f98e83a7-Rain_6ApveqsxRso_20000_30000.wav",
+    "id": 108,
+    "annotator": 1,
+    "annotation_id": 85,
+    "created_at": "2023-06-22T08:35:29.140256Z",
+    "updated_at": "2023-06-22T08:35:29.140300Z",
+    "lead_time": 19.865
+  },
+  {
+    "audio": "\/data\/upload\/3\/81e792eb-Rain_4tyGWo--YEM_30000_40000.wav",
+    "id": 109,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 86,
+    "created_at": "2023-06-22T11:49:11.454654Z",
+    "updated_at": "2023-06-22T11:49:11.454689Z",
+    "lead_time": 33.228
+  },
+  {
+    "audio": "\/data\/upload\/3\/013e856a-Rain_4GGWDYT_vYM_0_10000.wav",
+    "id": 110,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 87,
+    "created_at": "2023-06-22T11:51:23.689424Z",
+    "updated_at": "2023-06-22T11:51:23.689458Z",
+    "lead_time": 36.989
+  },
+  {
+    "audio": "\/data\/upload\/3\/be34d8f8-Rain_3iEhXH66-b4_470000_480000.wav",
+    "id": 111,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 88,
+    "created_at": "2023-06-22T11:52:15.223440Z",
+    "updated_at": "2023-06-22T11:52:15.223529Z",
+    "lead_time": 31.512
+  },
+  {
+    "audio": "\/data\/upload\/3\/2ceb53ed-Rain_2Xu7G_5dcHU_120000_130000.wav",
+    "id": 112,
+    "annotator": 1,
+    "annotation_id": 89,
+    "created_at": "2023-06-22T11:52:36.937099Z",
+    "updated_at": "2023-06-22T11:52:36.937189Z",
+    "lead_time": 12.246
+  },
+  {
+    "audio": "\/data\/upload\/3\/a847b5bc-Rain_1svh-n9l7tE_20000_30000.wav",
+    "id": 113,
+    "annotator": 1,
+    "annotation_id": 90,
+    "created_at": "2023-06-22T11:53:00.792441Z",
+    "updated_at": "2023-06-22T11:53:00.792471Z",
+    "lead_time": 22.388
+  },
+  {
+    "audio": "\/data\/upload\/3\/f8bdd64f-Rain_1C9KYqDMdAs_6000_16000.wav",
+    "id": 114,
+    "label": [
+      {
+        "start": 0,
+        "end": 9,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 91,
+    "created_at": "2023-06-22T11:53:32.121573Z",
+    "updated_at": "2023-06-22T11:53:32.121664Z",
+    "lead_time": 29.093
+  },
+  {
+    "audio": "\/data\/upload\/3\/e437b741-Rain_0npijV55Pl8_30000_40000.wav",
+    "id": 115,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 92,
+    "created_at": "2023-06-22T11:54:13.571671Z",
+    "updated_at": "2023-06-22T11:54:13.571762Z",
+    "lead_time": 39.166
+  },
+  {
+    "audio": "\/data\/upload\/3\/f12b758f-Rain_0AnxOy9y0cU_30000_40000.wav",
+    "id": 116,
+    "label": [
+      {
+        "start": 0,
+        "end": 9.338942307692307,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 93,
+    "created_at": "2023-06-22T11:54:46.949432Z",
+    "updated_at": "2023-06-22T11:54:46.949522Z",
+    "lead_time": 30.573
+  },
+  {
+    "audio": "\/data\/upload\/3\/d1cd270c-Purr_YPmhJvk-fRk_30000_40000.wav",
+    "id": 117,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 94,
+    "created_at": "2023-06-22T11:55:06.776682Z",
+    "updated_at": "2023-06-22T11:55:06.776771Z",
+    "lead_time": 17.867
+  },
+  {
+    "audio": "\/data\/upload\/3\/318ac63a-Purr_XVnGPD0YTYM_30000_40000.wav",
+    "id": 118,
+    "annotator": 1,
+    "annotation_id": 95,
+    "created_at": "2023-06-22T11:55:29.841670Z",
+    "updated_at": "2023-06-22T11:55:29.841735Z",
+    "lead_time": 21.589
+  },
+  {
+    "audio": "\/data\/upload\/3\/8fe3aa37-Purr_XEfPj4KMR3o_30000_40000.wav",
+    "id": 119,
+    "annotator": 1,
+    "annotation_id": 96,
+    "created_at": "2023-06-22T11:55:44.526281Z",
+    "updated_at": "2023-06-22T11:55:44.526401Z",
+    "lead_time": 11.731
+  },
+  {
+    "audio": "\/data\/upload\/3\/48c508d3-Purr_VhfRlJQXmyU_30000_40000.wav",
+    "id": 120,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 97,
+    "created_at": "2023-06-22T12:01:12.755037Z",
+    "updated_at": "2023-06-22T12:01:12.755127Z",
+    "lead_time": 22.135
+  },
+  {
+    "audio": "\/data\/upload\/3\/51fdc2e5-Purr_sQ_59dRysEg_0_10000.wav",
+    "id": 121,
+    "annotator": 1,
+    "annotation_id": 98,
+    "created_at": "2023-06-22T12:07:23.549571Z",
+    "updated_at": "2023-06-22T12:07:23.549616Z",
+    "lead_time": 12.39
+  },
+  {
+    "audio": "\/data\/upload\/3\/5df49053-Purr_OEHhFtvE50A_30000_40000.wav",
+    "id": 122,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 99,
+    "created_at": "2023-06-22T12:07:40.463401Z",
+    "updated_at": "2023-06-22T12:07:40.463492Z",
+    "lead_time": 15.614
+  },
+  {
+    "audio": "\/data\/upload\/3\/b5fac9d9-Purr_kZjJYYOC8uM_60000_70000.wav",
+    "id": 123,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 100,
+    "created_at": "2023-06-22T12:08:02.535433Z",
+    "updated_at": "2023-06-22T12:08:02.535524Z",
+    "lead_time": 20.541
+  },
+  {
+    "audio": "\/data\/upload\/3\/ea30308b-Purr_JOoXoyg56pQ_30000_40000.wav",
+    "id": 124,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 101,
+    "created_at": "2023-06-22T12:08:31.994805Z",
+    "updated_at": "2023-06-22T12:08:31.994920Z",
+    "lead_time": 22.969
+  },
+  {
+    "audio": "\/data\/upload\/3\/7c4107bb-Purr_iTSCVMxjXNg_260000_270000.wav",
+    "id": 125,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 102,
+    "created_at": "2023-06-22T12:08:50.674638Z",
+    "updated_at": "2023-06-22T12:08:50.674722Z",
+    "lead_time": 17.122
+  },
+  {
+    "audio": "\/data\/upload\/3\/9d0afb6f-Purr_ie2vtKriqdk_30000_40000.wav",
+    "id": 126,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 103,
+    "created_at": "2023-06-22T12:18:51.358288Z",
+    "updated_at": "2023-06-22T12:18:51.358403Z",
+    "lead_time": 17.489
+  },
+  {
+    "audio": "\/data\/upload\/3\/5dc9a4fa-Purr_hrp3Po1009Y_22000_32000.wav",
+    "id": 127,
+    "label": [
+      {
+        "start": 0,
+        "end": 9,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 105,
+    "created_at": "2023-06-26T08:18:05.549680Z",
+    "updated_at": "2023-06-26T08:18:05.549774Z",
+    "lead_time": 21.485
+  },
+  {
+    "audio": "\/data\/upload\/3\/8f57a85b-Purr_FR4y1RXYQNM_30000_40000.wav",
+    "id": 128,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 106,
+    "created_at": "2023-06-26T08:18:25.233416Z",
+    "updated_at": "2023-06-26T08:18:25.233507Z",
+    "lead_time": 18.123
+  },
+  {
+    "audio": "\/data\/upload\/3\/61c19074-Purr_erNE9hiaGIs_0_9000.wav",
+    "id": 129,
+    "label": [
+      {
+        "start": 0,
+        "end": 8,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 104,
+    "created_at": "2023-06-26T08:17:42.084069Z",
+    "updated_at": "2023-06-26T08:17:42.084161Z",
+    "lead_time": 19.925
+  },
+  {
+    "audio": "\/data\/upload\/3\/629c98b0-Purr_DtWFUObP4Cc_18000_28000.wav",
+    "id": 130,
+    "label": [
+      {
+        "start": 0,
+        "end": 9,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 107,
+    "created_at": "2023-06-26T08:18:45.024337Z",
+    "updated_at": "2023-06-26T08:18:45.024430Z",
+    "lead_time": 18.398
+  },
+  {
+    "audio": "\/data\/upload\/3\/a8addf40-Purr_4k-dllD-Wwo_0_10000.wav",
+    "id": 131,
+    "annotator": 1,
+    "annotation_id": 108,
+    "created_at": "2023-06-26T08:18:59.213308Z",
+    "updated_at": "2023-06-26T08:18:59.213356Z",
+    "lead_time": 11.886
+  },
+  {
+    "audio": "\/data\/upload\/3\/c0ee6902-Purr_0g0XO2mbFwo_30000_40000.wav",
+    "id": 132,
+    "label": [
+      {
+        "start": 0,
+        "end": 7.079326923076923,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 109,
+    "created_at": "2023-06-26T08:19:23.044433Z",
+    "updated_at": "2023-06-26T08:19:23.044517Z",
+    "lead_time": 14.694
+  },
+  {
+    "audio": "\/data\/upload\/3\/5caf8b35-Purr_09DorfSL7bw_30000_40000.wav",
+    "id": 133,
+    "label": [
+      {
+        "start": 1.346153846153846,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 110,
+    "created_at": "2023-06-26T08:19:44.842989Z",
+    "updated_at": "2023-06-26T08:19:44.843079Z",
+    "lead_time": 20.221
+  },
+  {
+    "audio": "\/data\/upload\/3\/a4558321-Knock_v6In-xX3IZk_20000_30000.wav",
+    "id": 134,
+    "label": [
+      {
+        "start": 1.1771263389423077,
+        "end": 5.348496375,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      },
+      {
+        "start": 5.691348706730769,
+        "end": 9.508438,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 111,
+    "created_at": "2023-06-26T08:20:18.902522Z",
+    "updated_at": "2023-06-26T08:20:18.902605Z",
+    "lead_time": 32.534
+  },
+  {
+    "audio": "\/data\/upload\/3\/50084964-Knock_R2oEPZi6ZTs_0_3000.wav",
+    "id": 135,
+    "label": [
+      {
+        "start": 0.48320674999999996,
+        "end": 1.72354,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 112,
+    "created_at": "2023-06-26T08:20:29.398604Z",
+    "updated_at": "2023-06-26T08:20:29.398690Z",
+    "lead_time": 8.554
+  },
+  {
+    "audio": "\/data\/upload\/3\/7593b037-Knock_IFBhVVyqKVA_0_5000.wav",
+    "id": 136,
+    "label": [
+      {
+        "start": 0.2691971153846154,
+        "end": 1.4421274038461538,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      },
+      {
+        "start": 2.456423677884615,
+        "end": 3.898551081730769,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 113,
+    "created_at": "2023-06-26T08:20:54.993659Z",
+    "updated_at": "2023-06-26T08:20:54.993743Z",
+    "lead_time": 23.902
+  },
+  {
+    "audio": "\/data\/upload\/3\/138615ca-Knock_EzNDfAsENsY_4000_14000.wav",
+    "id": 137,
+    "label": [
+      {
+        "start": 0,
+        "end": 9.475063,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 114,
+    "created_at": "2023-06-26T08:21:12.724511Z",
+    "updated_at": "2023-06-26T08:21:12.724602Z",
+    "lead_time": 16.148
+  },
+  {
+    "audio": "\/data\/upload\/3\/723b917e-Knock_bWppskIvs40_20000_30000.wav",
+    "id": 138,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 115,
+    "created_at": "2023-06-26T08:21:33.226145Z",
+    "updated_at": "2023-06-26T08:21:33.226203Z",
+    "lead_time": 18.151
+  },
+  {
+    "audio": "\/data\/upload\/3\/e695a4dc-Knock_AUArXB6hYsA_0_9000.wav",
+    "id": 139,
+    "label": [
+      {
+        "start": 0.33247357692307694,
+        "end": 2.16107825,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      },
+      {
+        "start": 4.280597302884615,
+        "end": 5.9741345853365395,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      },
+      {
+        "start": 6.815708326923077,
+        "end": 8.249500627403847,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 116,
+    "created_at": "2023-06-26T08:21:54.859432Z",
+    "updated_at": "2023-06-26T08:21:54.859516Z",
+    "lead_time": 20.408
+  },
+  {
+    "audio": "\/data\/upload\/3\/e92c29f1-Knock_11akZylBktA_30000_40000.wav",
+    "id": 140,
+    "label": [
+      {
+        "start": 0,
+        "end": 2.2475961538461537,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 117,
+    "created_at": "2023-06-26T08:22:13.281919Z",
+    "updated_at": "2023-06-26T08:22:13.282001Z",
+    "lead_time": 16.703
+  },
+  {
+    "audio": "\/data\/upload\/3\/5910fe36-Babycry_YzUyvCe-RX8_0_8000.wav",
+    "id": 141,
+    "label": [
+      {
+        "start": 0,
+        "end": 7.587813,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 118,
+    "created_at": "2023-06-26T08:22:30.596680Z",
+    "updated_at": "2023-06-26T08:22:30.596737Z",
+    "lead_time": 15.814
+  },
+  {
+    "audio": "\/data\/upload\/3\/03241fef-Babycry_YPQA5pvITQU_18000_28000.wav",
+    "id": 142,
+    "label": [
+      {
+        "start": 0.9086538461538461,
+        "end": 8.783653846153847,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 119,
+    "created_at": "2023-06-26T08:22:51.845127Z",
+    "updated_at": "2023-06-26T08:22:51.845213Z",
+    "lead_time": 19.438
+  },
+  {
+    "audio": "\/data\/upload\/3\/a17bc840-Babycry_yOpYiaqPwwQ_4000_14000.wav",
+    "id": 143,
+    "label": [
+      {
+        "start": 0,
+        "end": 9,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 120,
+    "created_at": "2023-06-26T08:29:46.050126Z",
+    "updated_at": "2023-06-26T08:29:46.050218Z",
+    "lead_time": 412.504
+  },
+  {
+    "audio": "\/data\/upload\/3\/8716669f-Babycry_YhSB-jTGz3Y_19000_29000.wav",
+    "id": 144,
+    "label": [
+      {
+        "start": 0,
+        "end": 9.90475,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 121,
+    "created_at": "2023-06-26T08:30:15.975623Z",
+    "updated_at": "2023-06-26T08:30:15.975714Z",
+    "lead_time": 16.311
+  },
+  {
+    "audio": "\/data\/upload\/3\/18c659fe-Babycry_YdK3PBVeaIs_30000_40000.wav",
+    "id": 145,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 122,
+    "created_at": "2023-06-26T08:30:36.365238Z",
+    "updated_at": "2023-06-26T08:30:36.365331Z",
+    "lead_time": 18.785
+  },
+  {
+    "audio": "\/data\/upload\/3\/b8ae9199-Babycry_wJqve-65MZY_29000_39000.wav",
+    "id": 146,
+    "label": [
+      {
+        "start": 0,
+        "end": 5.141631127403846,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      },
+      {
+        "start": 6.352104823317308,
+        "end": 9.58003467908654,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 123,
+    "created_at": "2023-06-26T08:31:01.143446Z",
+    "updated_at": "2023-06-26T08:31:01.143528Z",
+    "lead_time": 23.463
+  },
+  {
+    "audio": "\/data\/upload\/3\/c68a17de-Babycry_ORAMVQyH5H8_22000_32000.wav",
+    "id": 147,
+    "label": [
+      {
+        "start": 0,
+        "end": 8.664663461538462,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 124,
+    "created_at": "2023-06-26T08:31:56.251202Z",
+    "updated_at": "2023-06-26T08:31:56.251285Z",
+    "lead_time": 53.548
+  },
+  {
+    "audio": "\/data\/upload\/3\/b95b82a9-Babycry_KUkAdM4Lazk_4000_14000.wav",
+    "id": 148,
+    "annotator": 1,
+    "annotation_id": 125,
+    "created_at": "2023-06-26T08:32:06.321580Z",
+    "updated_at": "2023-06-26T08:32:06.321614Z",
+    "lead_time": 1.015
+  },
+  {
+    "audio": "\/data\/upload\/3\/07b57780-Babycry_KBZ4fp3Syow_30000_40000.wav",
+    "id": 149,
+    "label": [
+      {
+        "start": 0,
+        "end": 6.694711538461538,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 126,
+    "created_at": "2023-06-26T08:32:22.822277Z",
+    "updated_at": "2023-06-26T08:32:22.822366Z",
+    "lead_time": 15.189
+  },
+  {
+    "audio": "\/data\/upload\/3\/3948c989-Babycry_jOhNx3i5Q6Y_11000_21000.wav",
+    "id": 150,
+    "annotator": 1,
+    "annotation_id": 127,
+    "created_at": "2023-06-26T08:32:34.232549Z",
+    "updated_at": "2023-06-26T08:32:34.232662Z",
+    "lead_time": 8.55
+  },
+  {
+    "audio": "\/data\/upload\/3\/77044e1d-Babycry_IqmAqjP0V-c_30000_40000.wav",
+    "id": 151,
+    "label": [
+      {
+        "start": 1.7668269230769231,
+        "end": 6.646634615384616,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 128,
+    "created_at": "2023-06-26T08:32:47.816577Z",
+    "updated_at": "2023-06-26T08:32:47.816710Z",
+    "lead_time": 12.317
+  },
+  {
+    "audio": "\/data\/upload\/3\/2120acd7-Babycry_ifWhFgoXK0k_30000_40000.wav",
+    "id": 152,
+    "label": [
+      {
+        "start": 3.737980769230769,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 129,
+    "created_at": "2023-06-26T08:33:05.897893Z",
+    "updated_at": "2023-06-26T08:33:05.897974Z",
+    "lead_time": 16.574
+  },
+  {
+    "audio": "\/data\/upload\/3\/eeacae57-Babycry_i13woB5tvQE_30000_40000.wav",
+    "id": 153,
+    "label": [
+      {
+        "start": 0,
+        "end": 4.3389423076923075,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      },
+      {
+        "start": 6.069711538461538,
+        "end": 8.810096153846153,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 130,
+    "created_at": "2023-06-26T08:34:39.501479Z",
+    "updated_at": "2023-06-26T08:34:39.501570Z",
+    "lead_time": 92.279
+  },
+  {
+    "audio": "\/data\/upload\/3\/1be6a0db-Babycry_hRnFMWkEkQ4_30000_40000.wav",
+    "id": 154,
+    "label": [
+      {
+        "start": 4.110576923076923,
+        "end": 8.90625,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 131,
+    "created_at": "2023-06-26T08:41:34.747726Z",
+    "updated_at": "2023-06-26T08:41:34.747809Z",
+    "lead_time": 413.866
+  },
+  {
+    "audio": "\/data\/upload\/3\/43e68504-Babycry_GPcchoq8v50_0_4000.wav",
+    "id": 155,
+    "annotator": 1,
+    "annotation_id": 132,
+    "created_at": "2023-06-26T08:41:43.581263Z",
+    "updated_at": "2023-06-26T08:41:43.581356Z",
+    "lead_time": 6.961
+  },
+  {
+    "audio": "\/data\/upload\/3\/bea3882d-Babycry_gFdS-Zkt_y4_0_6000.wav",
+    "id": 156,
+    "label": [
+      {
+        "start": 0.5888834134615385,
+        "end": 4.9995,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 133,
+    "created_at": "2023-06-26T08:42:01.360797Z",
+    "updated_at": "2023-06-26T08:42:01.360880Z",
+    "lead_time": 16.291
+  },
+  {
+    "audio": "\/data\/upload\/3\/220746b2-Babycry_gDcLFwweoBk_30000_40000.wav",
+    "id": 157,
+    "annotator": 1,
+    "annotation_id": 134,
+    "created_at": "2023-06-26T08:42:15.929566Z",
+    "updated_at": "2023-06-26T08:42:15.929601Z",
+    "lead_time": 12.937
+  },
+  {
+    "audio": "\/data\/upload\/3\/d96386be-Babycry_gbI1DAJ0eKs_30000_40000.wav",
+    "id": 158,
+    "annotator": 1,
+    "annotation_id": 135,
+    "created_at": "2023-06-26T08:42:28.267677Z",
+    "updated_at": "2023-06-26T08:42:28.267716Z",
+    "lead_time": 10.938
+  },
+  {
+    "audio": "\/data\/upload\/3\/6944e202-Babycry_Fr_9CvC8Xxo_30000_40000.wav",
+    "id": 159,
+    "label": [
+      {
+        "start": 0,
+        "end": 6.586538461538462,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 136,
+    "created_at": "2023-06-26T08:42:42.730691Z",
+    "updated_at": "2023-06-26T08:42:42.730771Z",
+    "lead_time": 13.273
+  },
+  {
+    "audio": "\/data\/upload\/3\/adee630b-Babycry_FKaJsvcyHTk_0_10000.wav",
+    "id": 160,
+    "label": [
+      {
+        "start": 2.358042067307692,
+        "end": 8.912966346153846,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 137,
+    "created_at": "2023-06-26T08:42:57.726207Z",
+    "updated_at": "2023-06-26T08:42:57.726298Z",
+    "lead_time": 13.412
+  },
+  {
+    "audio": "\/data\/upload\/3\/deb5bcc6-Babycry_EtSJ8UWJ32M_30000_40000.wav",
+    "id": 161,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 138,
+    "created_at": "2023-06-26T08:43:14.596194Z",
+    "updated_at": "2023-06-26T08:43:14.596282Z",
+    "lead_time": 15.365
+  },
+  {
+    "audio": "\/data\/upload\/3\/d00a04b8-Babycry_e9-BqbFdB1k_30000_40000.wav",
+    "id": 162,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 139,
+    "created_at": "2023-06-26T08:44:11.864373Z",
+    "updated_at": "2023-06-26T08:44:11.864454Z",
+    "lead_time": 28.662
+  },
+  {
+    "audio": "\/data\/upload\/3\/9ffbd015-Babycry_DY-80XawmHQ_6000_16000.wav",
+    "id": 163,
+    "label": [
+      {
+        "start": 0,
+        "end": 8.984375,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 140,
+    "created_at": "2023-06-26T08:44:34.308477Z",
+    "updated_at": "2023-06-26T08:44:34.308569Z",
+    "lead_time": 19.818
+  },
+  {
+    "audio": "\/data\/upload\/3\/f86121c8-Babycry_dkmORzUggaM_30000_40000.wav",
+    "id": 164,
+    "label": [
+      {
+        "start": 0,
+        "end": 9.519230769230768,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 141,
+    "created_at": "2023-06-26T08:50:30.897487Z",
+    "updated_at": "2023-06-26T08:50:30.897572Z",
+    "lead_time": 36.635
+  },
+  {
+    "audio": "\/data\/upload\/3\/4a6be4e6-Babycry_D4m_FaB9rgk_30000_40000.wav",
+    "id": 165,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 142,
+    "created_at": "2023-06-26T08:50:47.969752Z",
+    "updated_at": "2023-06-26T08:50:47.969849Z",
+    "lead_time": 15.725
+  },
+  {
+    "audio": "\/data\/upload\/3\/4050bcf4-Babycry_CzotiifbywI_30000_40000.wav",
+    "id": 166,
+    "label": [
+      {
+        "start": 0,
+        "end": 3.485576923076923,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      },
+      {
+        "start": 5.913461538461538,
+        "end": 9.723557692307693,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 143,
+    "created_at": "2023-06-26T08:51:07.702340Z",
+    "updated_at": "2023-06-26T08:51:07.702434Z",
+    "lead_time": 18.259
+  },
+  {
+    "audio": "\/data\/upload\/3\/58ca75c8-Babycry_CGxUcaglF4E_30000_40000.wav",
+    "id": 167,
+    "label": [
+      {
+        "start": 0,
+        "end": 8.016826923076923,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 144,
+    "created_at": "2023-06-26T08:51:25.208074Z",
+    "updated_at": "2023-06-26T08:51:25.208167Z",
+    "lead_time": 16.023
+  },
+  {
+    "audio": "\/data\/upload\/3\/1b751a1b-Babycry_c5AVCPO3lAs_30000_40000.wav",
+    "id": 168,
+    "annotator": 1,
+    "annotation_id": 145,
+    "created_at": "2023-06-26T08:51:38.722570Z",
+    "updated_at": "2023-06-26T08:51:38.722652Z",
+    "lead_time": 11.898
+  },
+  {
+    "audio": "\/data\/upload\/3\/5079a543-Babycry_bnNbz1IfiJU_4000_14000.wav",
+    "id": 169,
+    "label": [
+      {
+        "start": 0.6839921875,
+        "end": 9.81175,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 146,
+    "created_at": "2023-06-26T08:51:55.002821Z",
+    "updated_at": "2023-06-26T08:51:55.002912Z",
+    "lead_time": 15.018
+  },
+  {
+    "audio": "\/data\/upload\/3\/5616c38e-Babycry_bHGq3avU8Sw_2000_12000.wav",
+    "id": 170,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 147,
+    "created_at": "2023-06-26T08:52:12.152203Z",
+    "updated_at": "2023-06-26T08:52:12.152258Z",
+    "lead_time": 15.865
+  },
+  {
+    "audio": "\/data\/upload\/3\/6b50bbb5-Babycry_bdNKotzs_bU_30000_40000.wav",
+    "id": 171,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 148,
+    "created_at": "2023-06-26T08:52:29.628240Z",
+    "updated_at": "2023-06-26T08:52:29.628275Z",
+    "lead_time": 15.94
+  },
+  {
+    "audio": "\/data\/upload\/3\/d6097924-Babycry_aUs67fcQPXc_28000_38000.wav",
+    "id": 172,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 149,
+    "created_at": "2023-06-26T08:52:47.080259Z",
+    "updated_at": "2023-06-26T08:52:47.080341Z",
+    "lead_time": 16.048
+  },
+  {
+    "audio": "\/data\/upload\/3\/34d7c58d-Babycry_agOkrt8z688_30000_40000.wav",
+    "id": 173,
+    "annotator": 1,
+    "annotation_id": 150,
+    "created_at": "2023-06-26T08:52:58.135888Z",
+    "updated_at": "2023-06-26T08:52:58.135974Z",
+    "lead_time": 8.495
+  },
+  {
+    "audio": "\/data\/upload\/3\/5d57be08-Babycry_a0lJqoQkAz0_13000_23000.wav",
+    "id": 174,
+    "label": [
+      {
+        "start": 0,
+        "end": 5.538461538461538,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 151,
+    "created_at": "2023-06-26T08:53:12.236741Z",
+    "updated_at": "2023-06-26T08:53:12.236835Z",
+    "lead_time": 12.816
+  },
+  {
+    "audio": "\/data\/upload\/3\/451eda50-Babycry_9Q8i01Llahc_30000_40000.wav",
+    "id": 175,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 152,
+    "created_at": "2023-06-26T08:53:45.997080Z",
+    "updated_at": "2023-06-26T08:53:45.997163Z",
+    "lead_time": 32.206
+  },
+  {
+    "audio": "\/data\/upload\/3\/a1b6d18c-Babycry_9LHPX1D6Vus_9000_19000.wav",
+    "id": 176,
+    "label": [
+      {
+        "start": 0,
+        "end": 9.479,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 153,
+    "created_at": "2023-06-26T08:54:02.594160Z",
+    "updated_at": "2023-06-26T08:54:02.594250Z",
+    "lead_time": 14.868
+  },
+  {
+    "audio": "\/data\/upload\/3\/fe2e79c8-Babycry_912ulwC5d6M_25000_35000.wav",
+    "id": 177,
+    "label": [
+      {
+        "start": 0,
+        "end": 9,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 154,
+    "created_at": "2023-06-26T08:54:19.274090Z",
+    "updated_at": "2023-06-26T08:54:19.274183Z",
+    "lead_time": 15.376
+  },
+  {
+    "audio": "\/data\/upload\/3\/0529e562-Babycry_8SLMXKOvgY4_7000_17000.wav",
+    "id": 178,
+    "label": [
+      {
+        "start": 0,
+        "end": 9.586563,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 155,
+    "created_at": "2023-06-26T08:54:36.594717Z",
+    "updated_at": "2023-06-26T08:54:36.594804Z",
+    "lead_time": 15.391
+  },
+  {
+    "audio": "\/data\/upload\/3\/0aef3722-Babycry_7olKwGplgfg_30000_40000.wav",
+    "id": 179,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 156,
+    "created_at": "2023-06-26T08:54:56.350742Z",
+    "updated_at": "2023-06-26T08:54:56.350835Z",
+    "lead_time": 18.348
+  },
+  {
+    "audio": "\/data\/upload\/3\/2040da3e-Babycry_6IQLJO3LhoU_13000_23000.wav",
+    "id": 180,
+    "label": [
+      {
+        "start": 0,
+        "end": 9,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 157,
+    "created_at": "2023-06-26T09:03:56.146063Z",
+    "updated_at": "2023-06-26T09:03:56.146157Z",
+    "lead_time": 15.036
+  },
+  {
+    "audio": "\/data\/upload\/3\/99c300c2-Babycry_5pXbK7b5M50_0_10000.wav",
+    "id": 181,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 158,
+    "created_at": "2023-06-26T09:04:12.906427Z",
+    "updated_at": "2023-06-26T09:04:12.906535Z",
+    "lead_time": 15.44
+  },
+  {
+    "audio": "\/data\/upload\/3\/345bd71e-Babycry_4bUL_ttiOdw_21000_31000.wav",
+    "id": 182,
+    "label": [
+      {
+        "start": 0,
+        "end": 9,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 159,
+    "created_at": "2023-06-26T09:04:30.901377Z",
+    "updated_at": "2023-06-26T09:04:30.901469Z",
+    "lead_time": 16.649
+  },
+  {
+    "audio": "\/data\/upload\/3\/c459fa89-Babycry_3v7q1xTR2LQ_30000_40000.wav",
+    "id": 183,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 160,
+    "created_at": "2023-06-26T09:05:03.620517Z",
+    "updated_at": "2023-06-26T09:05:03.620563Z",
+    "lead_time": 31.299
+  },
+  {
+    "audio": "\/data\/upload\/3\/0c5bab7e-Babycry_1LQBKRQtQHg_6000_16000.wav",
+    "id": 184,
+    "label": [
+      {
+        "start": 0,
+        "end": 7.4830960817307695,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 161,
+    "created_at": "2023-06-26T09:05:19.741176Z",
+    "updated_at": "2023-06-26T09:05:19.741269Z",
+    "lead_time": 14.264
+  },
+  {
+    "audio": "\/data\/upload\/3\/e229d091-Babycry_0LWim2o7Afo_30000_40000.wav",
+    "id": 185,
+    "label": [
+      {
+        "start": 0,
+        "end": 8.653846153846153,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 162,
+    "created_at": "2023-06-26T09:05:40.667128Z",
+    "updated_at": "2023-06-26T09:05:40.667220Z",
+    "lead_time": 19.374
+  },
+  {
+    "audio": "\/data\/upload\/3\/01ca6d44-Babycry_03Hgkn0DIA8_30000_40000.wav",
+    "id": 186,
+    "label": [
+      {
+        "start": 0,
+        "end": 8.257211538461538,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 163,
+    "created_at": "2023-06-26T09:05:55.762077Z",
+    "updated_at": "2023-06-26T09:05:55.762161Z",
+    "lead_time": 13.715
+  },
+  {
+    "audio": "\/data\/upload\/3\/d90594e3-Airconditioning_Y63rueuh9fs_40000_50000.wav",
+    "id": 187,
+    "label": [
+      {
+        "start": 2.548076923076923,
+        "end": 7.2235576923076925,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 164,
+    "created_at": "2023-06-26T09:06:17.216101Z",
+    "updated_at": "2023-06-26T09:06:17.216182Z",
+    "lead_time": 20.048
+  },
+  {
+    "audio": "\/data\/upload\/3\/777c27fe-Airconditioning_xAMFzbUQAUA_0_10000.wav",
+    "id": 188,
+    "label": [
+      {
+        "start": 0.9735576923076923,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 165,
+    "created_at": "2023-06-26T09:06:35.278660Z",
+    "updated_at": "2023-06-26T09:06:35.278744Z",
+    "lead_time": 14.082
+  },
+  {
+    "audio": "\/data\/upload\/3\/6d38118e-Airconditioning_W9Z6IR-OL2o_4000_14000.wav",
+    "id": 189,
+    "label": [
+      {
+        "start": 0,
+        "end": 9.706431235576924,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 166,
+    "created_at": "2023-06-26T09:06:56.014178Z",
+    "updated_at": "2023-06-26T09:06:56.014269Z",
+    "lead_time": 19.118
+  },
+  {
+    "audio": "\/data\/upload\/3\/49dcfa5b-Airconditioning_RXMgaX6xfxI_230000_240000.wav",
+    "id": 190,
+    "label": [
+      {
+        "start": 0,
+        "end": 6.189903846153846,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 167,
+    "created_at": "2023-06-26T09:07:10.048328Z",
+    "updated_at": "2023-06-26T09:07:10.048413Z",
+    "lead_time": 12.605
+  },
+  {
+    "audio": "\/data\/upload\/3\/84318aad-Airconditioning_dfIRuNBxOv0_150000_160000.wav",
+    "id": 191,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 168,
+    "created_at": "2023-06-26T09:07:27.924445Z",
+    "updated_at": "2023-06-26T09:07:27.924532Z",
+    "lead_time": 16.338
+  },
+  {
+    "audio": "\/data\/upload\/3\/88b67dbb-Airconditioning_CKvsXpr5vIw_10000_20000.wav",
+    "id": 192,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 169,
+    "created_at": "2023-06-26T09:08:07.931707Z",
+    "updated_at": "2023-06-26T09:08:07.931792Z",
+    "lead_time": 19.975
+  },
+  {
+    "audio": "\/data\/upload\/3\/0b0fd632-Airconditioning_C4GJXp28AwI_150000_160000.wav",
+    "id": 193,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 170,
+    "created_at": "2023-06-26T09:08:24.969374Z",
+    "updated_at": "2023-06-26T09:08:24.969459Z",
+    "lead_time": 15.598
+  },
+  {
+    "audio": "\/data\/upload\/3\/c114d602-Airconditioning_8k_PLiGAjmU_2000_12000.wav",
+    "id": 194,
+    "label": [
+      {
+        "start": 0,
+        "end": 9.935063,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 171,
+    "created_at": "2023-06-26T09:08:46.449645Z",
+    "updated_at": "2023-06-26T09:08:46.449714Z",
+    "lead_time": 20.024
+  },
+  {
+    "audio": "\/data\/upload\/3\/5706de5a-Airconditioning_3a1wOzya2IM_0_10000.wav",
+    "id": 195,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 172,
+    "created_at": "2023-06-26T09:09:05.009181Z",
+    "updated_at": "2023-06-26T09:09:05.009259Z",
+    "lead_time": 16.883
+  },
+  {
+    "audio": "\/data\/upload\/3\/d29e5e39-Airconditioning_24j8o-CcP5E_290000_300000.wav",
+    "id": 196,
+    "label": [
+      {
+        "start": 0,
+        "end": 8.28125,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 173,
+    "created_at": "2023-06-26T09:09:24.230208Z",
+    "updated_at": "2023-06-26T09:09:24.230301Z",
+    "lead_time": 17.661
+  },
+  {
+    "audio": "\/data\/upload\/3\/467967eb-Airconditioning_2xNIFxCig2Q_23000_33000.wav",
+    "id": 197,
+    "annotator": 1,
+    "annotation_id": 174,
+    "created_at": "2023-06-27T13:04:07.708556Z",
+    "updated_at": "2023-06-27T13:04:07.708576Z",
+    "lead_time": 22.807
+  },
+  {
+    "audio": "\/data\/upload\/3\/c4654863-Airconditioning_5MyuJia6Ho4_80000_90000.wav",
+    "id": 198,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 176,
+    "created_at": "2023-06-27T13:05:44.258713Z",
+    "updated_at": "2023-06-27T13:05:44.258734Z",
+    "lead_time": 37.177
+  },
+  {
+    "audio": "\/data\/upload\/3\/4ec7541c-Airconditioning_bFdXJSDRZqo_15000_25000.wav",
+    "id": 199,
+    "label": [
+      {
+        "start": 0,
+        "end": 8.333099415204678,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 175,
+    "created_at": "2023-06-27T13:05:04.898620Z",
+    "updated_at": "2023-06-27T13:05:04.898639Z",
+    "lead_time": 17.645
+  },
+  {
+    "audio": "\/data\/upload\/3\/b4acad0d-Airconditioning_CictgvfIJ6M_10000_20000.wav",
+    "id": 200,
+    "annotator": 1,
+    "annotation_id": 177,
+    "created_at": "2023-06-27T13:05:57.624199Z",
+    "updated_at": "2023-06-27T13:05:57.624219Z",
+    "lead_time": 11.933
+  },
+  {
+    "audio": "\/data\/upload\/3\/5cd63843-Airconditioning_cmRNT6og1zo_20000_30000.wav",
+    "id": 201,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 178,
+    "created_at": "2023-06-27T13:07:57.949149Z",
+    "updated_at": "2023-06-27T13:07:57.949173Z",
+    "lead_time": 119.356
+  },
+  {
+    "audio": "\/data\/upload\/3\/aba0e009-Airconditioning_LZI8PQQ0uTI_4000_14000.wav",
+    "id": 202,
+    "label": [
+      {
+        "start": 0,
+        "end": 9.997563,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 179,
+    "created_at": "2023-06-27T13:08:26.334107Z",
+    "updated_at": "2023-06-27T13:08:26.334133Z",
+    "lead_time": 16.328
+  },
+  {
+    "audio": "\/data\/upload\/3\/f4b69e82-Airconditioning_UU6JdpOFJLs_10000_20000.wav",
+    "id": 203,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 180,
+    "created_at": "2023-06-27T13:08:42.737038Z",
+    "updated_at": "2023-06-27T13:08:42.737057Z",
+    "lead_time": 15.328
+  },
+  {
+    "audio": "\/data\/upload\/3\/ac2c7d66-Airconditioning_wN49RUxFmWU_70000_80000.wav",
+    "id": 204,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 181,
+    "created_at": "2023-06-27T13:08:58.792509Z",
+    "updated_at": "2023-06-27T13:08:58.792530Z",
+    "lead_time": 15.021
+  },
+  {
+    "audio": "\/data\/upload\/3\/4a6e9a2e-Airconditioning_XRFdshfA26c_470000_480000.wav",
+    "id": 205,
+    "annotator": 1,
+    "annotation_id": 182,
+    "created_at": "2023-06-27T13:09:10.582380Z",
+    "updated_at": "2023-06-27T13:09:10.582400Z",
+    "lead_time": 10.681
+  },
+  {
+    "audio": "\/data\/upload\/3\/04342e7e-Airconditioning_-Zfq_oF4REc_10000_20000.wav",
+    "id": 206,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 183,
+    "created_at": "2023-06-27T13:09:26.350110Z",
+    "updated_at": "2023-06-27T13:09:26.350135Z",
+    "lead_time": 14.748
+  },
+  {
+    "audio": "\/data\/upload\/3\/6f4c4acf-Babycry_0lq5Oey7ChY_30000_40000.wav",
+    "id": 207,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 184,
+    "created_at": "2023-06-27T13:09:45.395080Z",
+    "updated_at": "2023-06-27T13:09:45.395100Z",
+    "lead_time": 17.125
+  },
+  {
+    "audio": "\/data\/upload\/3\/11664b67-Babycry_1icEOZdgkVY_30000_40000.wav",
+    "id": 208,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 185,
+    "created_at": "2023-06-27T13:10:01.633357Z",
+    "updated_at": "2023-06-27T13:10:01.633377Z",
+    "lead_time": 15.275
+  },
+  {
+    "audio": "\/data\/upload\/3\/2b6ff6de-Babycry_1pJrv7RT3dw_30000_40000.wav",
+    "id": 209,
+    "label": [
+      {
+        "start": 7.400909681611436,
+        "end": 9.935022742040285,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      },
+      {
+        "start": 0,
+        "end": 6.8161143599740095,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 187,
+    "created_at": "2023-06-27T13:30:03.390688Z",
+    "updated_at": "2023-06-27T13:30:09.644003Z",
+    "lead_time": 37.607
+  },
+  {
+    "audio": "\/data\/upload\/3\/26ebec1f-Babycry_3vJBnPSyc1M_9000_19000.wav",
+    "id": 210,
+    "label": [
+      {
+        "start": 0,
+        "end": 6.549702419753086,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 188,
+    "created_at": "2023-06-27T13:30:27.684568Z",
+    "updated_at": "2023-06-27T13:30:27.684587Z",
+    "lead_time": 15.852
+  },
+  {
+    "audio": "\/data\/upload\/3\/ad60b4ad-Babycry_5K_c4LG7CEE_30000_40000.wav",
+    "id": 211,
+    "label": [
+      {
+        "start": 0.8901884340480831,
+        "end": 6.4262508122157245,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 189,
+    "created_at": "2023-06-27T13:30:46.741996Z",
+    "updated_at": "2023-06-27T13:30:46.742018Z",
+    "lead_time": 17.707
+  },
+  {
+    "audio": "\/data\/upload\/3\/966b3fa9-Babycry_5xwiFBEkcN8_29000_39000.wav",
+    "id": 212,
+    "label": [
+      {
+        "start": 0,
+        "end": 2.0584795321637426,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 190,
+    "created_at": "2023-06-27T13:30:55.099693Z",
+    "updated_at": "2023-06-27T13:30:55.099712Z",
+    "lead_time": 7.364
+  },
+  {
+    "audio": "\/data\/upload\/3\/4fe70a64-Babycry_6Yv8NkFdGqs_18000_28000.wav",
+    "id": 213,
+    "label": [
+      {
+        "start": 0.770609200779727,
+        "end": 3.7631415971410003,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      },
+      {
+        "start": 4.3924724444444445,
+        "end": 8.271205421702403,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 191,
+    "created_at": "2023-06-27T13:31:18.963586Z",
+    "updated_at": "2023-06-27T13:31:18.963603Z",
+    "lead_time": 22.849
+  },
+  {
+    "audio": "\/data\/upload\/3\/e28fd8a6-Babycry_8mU1Q6ffIqg_23000_33000.wav",
+    "id": 214,
+    "label": [
+      {
+        "start": 0,
+        "end": 4.380116959064328,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      },
+      {
+        "start": 4.859649122807018,
+        "end": 9,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 192,
+    "created_at": "2023-06-27T13:31:36.460240Z",
+    "updated_at": "2023-06-27T13:31:36.460260Z",
+    "lead_time": 15.764
+  },
+  {
+    "audio": "\/data\/upload\/3\/3332dd28-Babycry_8uUDRMdnxEU_11000_21000.wav",
+    "id": 215,
+    "label": [
+      {
+        "start": 0,
+        "end": 9,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 193,
+    "created_at": "2023-06-27T13:31:59.552862Z",
+    "updated_at": "2023-06-27T13:31:59.552883Z",
+    "lead_time": 20.927
+  },
+  {
+    "audio": "\/data\/upload\/3\/c6c823a6-Babycry_9hxIJxGDUSE_30000_40000.wav",
+    "id": 216,
+    "label": [
+      {
+        "start": 0,
+        "end": 2.3391812865497075,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      },
+      {
+        "start": 3.060428849902534,
+        "end": 7.712800519818064,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 194,
+    "created_at": "2023-06-27T13:32:33.636302Z",
+    "updated_at": "2023-06-27T13:32:33.636322Z",
+    "lead_time": 32.739
+  },
+  {
+    "audio": "\/data\/upload\/3\/fbd92ee0-Babycry_9zNcL0ixEAs_26000_36000.wav",
+    "id": 217,
+    "label": [
+      {
+        "start": 0,
+        "end": 4.405458089668616,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      },
+      {
+        "start": 5.087719298245615,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 195,
+    "created_at": "2023-06-27T13:33:22.933486Z",
+    "updated_at": "2023-06-27T13:33:22.933505Z",
+    "lead_time": 16.087
+  },
+  {
+    "audio": "\/data\/upload\/3\/202a7ac6-Babycry__9NT1KOYPkM_18000_28000.wav",
+    "id": 218,
+    "label": [
+      {
+        "start": 0,
+        "end": 9,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 196,
+    "created_at": "2023-06-27T13:34:03.000339Z",
+    "updated_at": "2023-06-27T13:34:03.000360Z",
+    "lead_time": 38.961
+  },
+  {
+    "audio": "\/data\/upload\/3\/8c4e073c-Babycry_A9JHX2UM0yk_0_8000.wav",
+    "id": 219,
+    "label": [
+      {
+        "start": 0,
+        "end": 6.9995,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 197,
+    "created_at": "2023-06-27T14:33:20.817928Z",
+    "updated_at": "2023-06-27T14:33:20.817947Z",
+    "lead_time": 78.724
+  },
+  {
+    "audio": "\/data\/upload\/3\/91e60915-Babycry_ao6-Npm2Cbw_30000_40000.wav",
+    "id": 220,
+    "label": [
+      {
+        "start": 2.2287199480181936,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 198,
+    "created_at": "2023-06-27T14:33:45.636804Z",
+    "updated_at": "2023-06-27T14:33:45.636844Z",
+    "lead_time": 22.774
+  },
+  {
+    "audio": "\/data\/upload\/3\/96ce95da-Babycry_bAori3I3oXM_20000_30000.wav",
+    "id": 221,
+    "label": [
+      {
+        "start": 0.5613768557504872,
+        "end": 8.001233346328783,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 199,
+    "created_at": "2023-06-27T14:34:18.876617Z",
+    "updated_at": "2023-06-27T14:34:18.876634Z",
+    "lead_time": 30.562
+  },
+  {
+    "audio": "\/data\/upload\/3\/934480b0-Babycry_bdpav0rufzI_30000_40000.wav",
+    "id": 222,
+    "label": [
+      {
+        "start": 1.4294996751137101,
+        "end": 6.985055230669266,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 200,
+    "created_at": "2023-06-27T14:34:42.772237Z",
+    "updated_at": "2023-06-27T14:34:42.772254Z",
+    "lead_time": 22.846
+  },
+  {
+    "audio": "\/data\/upload\/3\/90ab7e5b-Babycry__BISLinpG88_14000_24000.wav",
+    "id": 223,
+    "label": [
+      {
+        "start": 0,
+        "end": 9.376292641325536,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 201,
+    "created_at": "2023-06-27T14:42:11.427613Z",
+    "updated_at": "2023-06-27T14:42:11.427631Z",
+    "lead_time": 446.232
+  },
+  {
+    "audio": "\/data\/upload\/3\/747961a8-Babycry_bsIZ7MScbjA_1000_11000.wav",
+    "id": 224,
+    "label": [
+      {
+        "start": 0,
+        "end": 9.31124106562703,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 202,
+    "created_at": "2023-06-27T14:43:06.743527Z",
+    "updated_at": "2023-06-27T14:43:06.743550Z",
+    "lead_time": 53.304
+  },
+  {
+    "audio": "\/data\/upload\/3\/703fabff-Babycry_CcU1kbeiY6w_0_10000.wav",
+    "id": 225,
+    "label": [
+      {
+        "start": 0,
+        "end": 8.992625,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 203,
+    "created_at": "2023-06-27T14:53:26.533861Z",
+    "updated_at": "2023-06-27T14:53:26.533878Z",
+    "lead_time": 14.39
+  },
+  {
+    "audio": "\/data\/upload\/3\/37b36be7-Babycry_ciMk3LxO1Es_1000_11000.wav",
+    "id": 226,
+    "label": [
+      {
+        "start": 0,
+        "end": 3.871345029239766,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 204,
+    "created_at": "2023-06-27T14:53:37.213446Z",
+    "updated_at": "2023-06-27T14:53:37.213465Z",
+    "lead_time": 9.717
+  },
+  {
+    "audio": "\/data\/upload\/3\/afd35192-Babycry_d-1zfgzgBgc_14000_24000.wav",
+    "id": 227,
+    "label": [
+      {
+        "start": 1.6374269005847952,
+        "end": 5.578947368421052,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 205,
+    "created_at": "2023-06-27T14:54:19.784113Z",
+    "updated_at": "2023-06-27T14:54:19.784132Z",
+    "lead_time": 41.082
+  },
+  {
+    "audio": "\/data\/upload\/3\/10ddb1c3-Babycry_DfpmFmM0LzQ_0_9000.wav",
+    "id": 228,
+    "label": [
+      {
+        "start": 0,
+        "end": 8.806875,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 206,
+    "created_at": "2023-06-27T14:54:45.767350Z",
+    "updated_at": "2023-06-27T14:54:45.767405Z",
+    "lead_time": 24.423
+  },
+  {
+    "audio": "\/data\/upload\/3\/8b9ab3b3-Babycry_DnrzWno9RY0_23000_33000.wav",
+    "id": 229,
+    "label": [
+      {
+        "start": 0,
+        "end": 9,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 207,
+    "created_at": "2023-06-27T14:55:07.312123Z",
+    "updated_at": "2023-06-27T14:55:07.312142Z",
+    "lead_time": 19.725
+  },
+  {
+    "audio": "\/data\/upload\/3\/a298315a-Babycry_E2KinBCZ3BY_30000_40000.wav",
+    "id": 230,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 208,
+    "created_at": "2023-06-27T14:55:30.030759Z",
+    "updated_at": "2023-06-27T14:55:30.030779Z",
+    "lead_time": 21.248
+  },
+  {
+    "audio": "\/data\/upload\/3\/066868b7-Babycry_ejmarGGZ6a0_30000_40000.wav",
+    "id": 231,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 209,
+    "created_at": "2023-06-27T14:57:44.176141Z",
+    "updated_at": "2023-06-27T14:57:44.176159Z",
+    "lead_time": 133.223
+  },
+  {
+    "audio": "\/data\/upload\/3\/d7b4a272-Babycry_fEU8-7EUAAw_15000_25000.wav",
+    "id": 232,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 210,
+    "created_at": "2023-06-27T14:58:00.406514Z",
+    "updated_at": "2023-06-27T14:58:00.406559Z",
+    "lead_time": 15.167
+  },
+  {
+    "audio": "\/data\/upload\/3\/3d2f6954-Babycry_fp8HNrMS_r4_2000_12000.wav",
+    "id": 233,
+    "label": [
+      {
+        "start": 2.9235172033788173,
+        "end": 8.893442820012996,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 211,
+    "created_at": "2023-06-27T14:58:26.223654Z",
+    "updated_at": "2023-06-27T14:58:26.223674Z",
+    "lead_time": 25.007
+  },
+  {
+    "audio": "\/data\/upload\/3\/155744d0-Babycry_FSQ2vBJ0hmw_15000_25000.wav",
+    "id": 234,
+    "annotator": 1,
+    "annotation_id": 212,
+    "created_at": "2023-06-27T14:58:44.057486Z",
+    "updated_at": "2023-06-27T14:58:44.057530Z",
+    "lead_time": 16.896
+  },
+  {
+    "audio": "\/data\/upload\/3\/d09f4f1d-Babycry_GBVtcR1_cCU_16000_26000.wav",
+    "id": 235,
+    "label": [
+      {
+        "start": 0,
+        "end": 6.56140350877193,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 213,
+    "created_at": "2023-06-27T14:58:59.394072Z",
+    "updated_at": "2023-06-27T14:58:59.394095Z",
+    "lead_time": 14.492
+  },
+  {
+    "audio": "\/data\/upload\/3\/78268a2a-Babycry_gE-RojK6upg_18000_28000.wav",
+    "id": 236,
+    "annotator": 1,
+    "annotation_id": 214,
+    "created_at": "2023-06-27T14:59:13.585178Z",
+    "updated_at": "2023-06-27T14:59:13.585208Z",
+    "lead_time": 12.473
+  },
+  {
+    "audio": "\/data\/upload\/3\/3bff8ec0-Babycry_Gh34M6wBhG8_21000_31000.wav",
+    "id": 237,
+    "label": [
+      {
+        "start": 1.395653021442495,
+        "end": 8.949625,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 215,
+    "created_at": "2023-06-27T15:01:27.558420Z",
+    "updated_at": "2023-06-27T15:01:27.558440Z",
+    "lead_time": 23.001
+  },
+  {
+    "audio": "\/data\/upload\/3\/7d2a7523-Babycry_hfdWrvYgPww_11000_21000.wav",
+    "id": 238,
+    "label": [
+      {
+        "start": 0,
+        "end": 9,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 216,
+    "created_at": "2023-06-27T15:01:45.098149Z",
+    "updated_at": "2023-06-27T15:01:45.098174Z",
+    "lead_time": 16.517
+  },
+  {
+    "audio": "\/data\/upload\/3\/1d192595-Babycry_HRZWQYvCijU_30000_40000.wav",
+    "id": 239,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 217,
+    "created_at": "2023-06-27T15:04:20.004879Z",
+    "updated_at": "2023-06-27T15:04:20.004899Z",
+    "lead_time": 152.78
+  },
+  {
+    "audio": "\/data\/upload\/3\/ffdaf31a-Babycry_i-28wN9CvyM_17000_27000.wav",
+    "id": 240,
+    "label": [
+      {
+        "start": 0,
+        "end": 9.652438,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 218,
+    "created_at": "2023-06-27T15:04:39.831591Z",
+    "updated_at": "2023-06-27T15:04:39.831611Z",
+    "lead_time": 18.847
+  },
+  {
+    "audio": "\/data\/upload\/3\/5ba4420c-Babycry_iKyCsb-Tgmg_30000_40000.wav",
+    "id": 241,
+    "label": [
+      {
+        "start": 1.7868745938921378,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 219,
+    "created_at": "2023-06-27T15:04:59.271313Z",
+    "updated_at": "2023-06-27T15:04:59.271332Z",
+    "lead_time": 18.256
+  },
+  {
+    "audio": "\/data\/upload\/3\/2c19de94-Babycry_JHkf3U2m59Y_2000_12000.wav",
+    "id": 242,
+    "label": [
+      {
+        "start": 0.5685763482781027,
+        "end": 9.879014051332035,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 220,
+    "created_at": "2023-06-27T15:07:05.051890Z",
+    "updated_at": "2023-06-27T15:07:05.051911Z",
+    "lead_time": 22.226
+  },
+  {
+    "audio": "\/data\/upload\/3\/97fac8e3-Babycry_K2VMKySiesg_30000_40000.wav",
+    "id": 243,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 221,
+    "created_at": "2023-06-27T15:07:24.553749Z",
+    "updated_at": "2023-06-27T15:07:24.553767Z",
+    "lead_time": 18.251
+  },
+  {
+    "audio": "\/data\/upload\/3\/e4736880-Babycry_KoKy3bC91cg_1000_11000.wav",
+    "id": 244,
+    "label": [
+      {
+        "start": 0.6023391812865497,
+        "end": 8.859649122807017,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 222,
+    "created_at": "2023-06-27T15:10:35.473776Z",
+    "updated_at": "2023-06-27T15:10:35.473793Z",
+    "lead_time": 30.611
+  },
+  {
+    "audio": "\/data\/upload\/3\/e68b6929-Babycry_oCXbS1QbhuI_30000_40000.wav",
+    "id": 245,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 223,
+    "created_at": "2023-06-27T15:10:56.923428Z",
+    "updated_at": "2023-06-27T15:10:56.923447Z",
+    "lead_time": 20.137
+  },
+  {
+    "audio": "\/data\/upload\/3\/4bfb198a-Babycry_Pf6nR7ihQjs_16000_26000.wav",
+    "id": 246,
+    "label": [
+      {
+        "start": 0,
+        "end": 9,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 224,
+    "created_at": "2023-06-27T15:13:04.265911Z",
+    "updated_at": "2023-06-27T15:13:04.265929Z",
+    "lead_time": 16.669
+  },
+  {
+    "audio": "\/data\/upload\/3\/1c5ecf46-Babycry_wXWj2b7xiKA_21000_31000.wav",
+    "id": 247,
+    "label": [
+      {
+        "start": 0,
+        "end": 9.948125,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 225,
+    "created_at": "2023-06-27T15:13:24.498417Z",
+    "updated_at": "2023-06-27T15:13:24.498436Z",
+    "lead_time": 18.008
+  },
+  {
+    "audio": "\/data\/upload\/3\/1fe950d3-Babycry_YFK6RwUBpHg_10000_20000.wav",
+    "id": 248,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 226,
+    "created_at": "2023-06-27T15:13:41.048147Z",
+    "updated_at": "2023-06-27T15:13:41.048209Z",
+    "lead_time": 15.408
+  },
+  {
+    "audio": "\/data\/upload\/3\/4bfbfd9d-Babycry_YLk4YOa6Mdg_17000_27000.wav",
+    "id": 249,
+    "label": [
+      {
+        "start": 0,
+        "end": 5.237166991552956,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      },
+      {
+        "start": 6.003898635477583,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 227,
+    "created_at": "2023-06-27T15:13:59.194657Z",
+    "updated_at": "2023-06-27T15:13:59.194677Z",
+    "lead_time": 17.001
+  },
+  {
+    "audio": "\/data\/upload\/3\/cf5846db-Babycry_ypp8wHAMwa8_30000_40000.wav",
+    "id": 250,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 228,
+    "created_at": "2023-06-27T15:14:20.232958Z",
+    "updated_at": "2023-06-27T15:14:20.232979Z",
+    "lead_time": 19.019
+  },
+  {
+    "audio": "\/data\/upload\/3\/cb09fc03-Babycry_YRCjuB6IwCE_24000_34000.wav",
+    "id": 251,
+    "label": [
+      {
+        "start": 0,
+        "end": 9,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 229,
+    "created_at": "2023-06-27T15:14:35.305971Z",
+    "updated_at": "2023-06-27T15:14:35.305992Z",
+    "lead_time": 13.875
+  },
+  {
+    "audio": "\/data\/upload\/3\/7df06f47-Babycry_Z9oq9kiKQEI_30000_40000.wav",
+    "id": 252,
+    "label": [
+      {
+        "start": 0,
+        "end": 2.8200129954515916,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      },
+      {
+        "start": 3.469785575048733,
+        "end": 5.477582846003899,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 230,
+    "created_at": "2023-06-27T15:14:58.217668Z",
+    "updated_at": "2023-06-27T15:14:58.217687Z",
+    "lead_time": 21.752
+  },
+  {
+    "audio": "\/data\/upload\/3\/6efc511a-Knock_5r_VBPd4Ir4_350000_360000.wav",
+    "id": 253,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 231,
+    "created_at": "2023-06-27T15:15:21.432223Z",
+    "updated_at": "2023-06-27T15:15:21.432243Z",
+    "lead_time": 20.057
+  },
+  {
+    "audio": "\/data\/upload\/3\/64f97a06-Knock_AurNAIrk33A_0_10000.wav",
+    "id": 254,
+    "label": [
+      {
+        "start": 1.8063677712800519,
+        "end": 3.333333333333333,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 232,
+    "created_at": "2023-06-27T15:15:37.703781Z",
+    "updated_at": "2023-06-27T15:15:37.703800Z",
+    "lead_time": 14.965
+  },
+  {
+    "audio": "\/data\/upload\/3\/9d3db026-Knock_diG60tHVEGc_0_10000.wav",
+    "id": 255,
+    "label": [
+      {
+        "start": 0.8836907082521117,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 233,
+    "created_at": "2023-06-27T15:15:53.067804Z",
+    "updated_at": "2023-06-27T15:15:53.067825Z",
+    "lead_time": 13.919
+  },
+  {
+    "audio": "\/data\/upload\/3\/277ce2e2-Knock_h-nuN3iZfaM_10000_20000.wav",
+    "id": 256,
+    "label": [
+      {
+        "start": 4.808317089018844,
+        "end": 6.5432098765432105,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      },
+      {
+        "start": 8.24561403508772,
+        "end": 9.922027290448343,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 234,
+    "created_at": "2023-06-27T15:16:17.034481Z",
+    "updated_at": "2023-06-27T15:16:17.034498Z",
+    "lead_time": 22.646
+  },
+  {
+    "audio": "\/data\/upload\/3\/21f02493-Knock_OSDRCsHcq-Y_0_3000.wav",
+    "id": 257,
+    "label": [
+      {
+        "start": 0,
+        "end": 2,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 235,
+    "created_at": "2023-06-27T15:16:31.977188Z",
+    "updated_at": "2023-06-27T15:16:31.977206Z",
+    "lead_time": 9.496
+  },
+  {
+    "audio": "\/data\/upload\/3\/d8d05d01-Knock_SxA2qGPF3-E_40000_50000.wav",
+    "id": 258,
+    "annotator": 1,
+    "annotation_id": 236,
+    "created_at": "2023-06-27T15:16:45.831572Z",
+    "updated_at": "2023-06-27T15:16:45.831590Z",
+    "lead_time": 11.893
+  },
+  {
+    "audio": "\/data\/upload\/3\/77218aa9-Knock_z3OokFzmFz8_0_10000.wav",
+    "id": 259,
+    "label": [
+      {
+        "start": 8.317089018843404,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      },
+      {
+        "start": 5.94541910331384,
+        "end": 7.8622482131254054,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 237,
+    "created_at": "2023-06-27T15:17:08.890922Z",
+    "updated_at": "2023-06-27T15:17:08.890940Z",
+    "lead_time": 21.217
+  },
+  {
+    "audio": "\/data\/upload\/3\/281bb9ff-Purr_0esmJ-7Y3Iw_20000_30000.wav",
+    "id": 260,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 238,
+    "created_at": "2023-06-27T15:17:39.546768Z",
+    "updated_at": "2023-06-27T15:17:39.546787Z",
+    "lead_time": 28.262
+  },
+  {
+    "audio": "\/data\/upload\/3\/a2e3a73d-Purr_1JK-5ruevlQ_70000_80000.wav",
+    "id": 261,
+    "annotator": 1,
+    "annotation_id": 239,
+    "created_at": "2023-06-27T15:19:38.647217Z",
+    "updated_at": "2023-06-27T15:19:38.647234Z",
+    "lead_time": 17.211
+  },
+  {
+    "audio": "\/data\/upload\/3\/9ca734e2-Purr_Cw5ZGUH2lzE_30000_40000.wav",
+    "id": 262,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 240,
+    "created_at": "2023-06-27T15:21:11.341100Z",
+    "updated_at": "2023-06-27T15:21:11.341120Z",
+    "lead_time": 38.902
+  },
+  {
+    "audio": "\/data\/upload\/3\/5752c875-Purr_ErdKf3IDAK0_30000_40000.wav",
+    "id": 263,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 241,
+    "created_at": "2023-06-27T15:21:30.609427Z",
+    "updated_at": "2023-06-27T15:21:30.609469Z",
+    "lead_time": 18.457
+  },
+  {
+    "audio": "\/data\/upload\/3\/843ae4b3-Purr_fNrKeL12ev8_30000_40000.wav",
+    "id": 264,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 242,
+    "created_at": "2023-06-27T15:21:44.993078Z",
+    "updated_at": "2023-06-27T15:21:44.993098Z",
+    "lead_time": 13.409
+  },
+  {
+    "audio": "\/data\/upload\/3\/eb6358ba-Purr_hj5fXnBBSW4_0_10000.wav",
+    "id": 265,
+    "annotator": 1,
+    "annotation_id": 243,
+    "created_at": "2023-06-27T15:21:57.248245Z",
+    "updated_at": "2023-06-27T15:21:57.248264Z",
+    "lead_time": 11.213
+  },
+  {
+    "audio": "\/data\/upload\/3\/558cdc52-Purr_hY6gxvsYu6o_30000_40000.wav",
+    "id": 266,
+    "label": [
+      {
+        "start": 0,
+        "end": 5.252403846153847,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 244,
+    "created_at": "2023-06-28T07:04:54.096691Z",
+    "updated_at": "2023-06-28T07:04:54.096777Z",
+    "lead_time": 49.168
+  },
+  {
+    "audio": "\/data\/upload\/3\/b8205848-Purr_iK9VHrEne3M_30000_40000.wav",
+    "id": 267,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 245,
+    "created_at": "2023-06-28T07:05:25.246566Z",
+    "updated_at": "2023-06-28T07:05:25.246651Z",
+    "lead_time": 28.065
+  },
+  {
+    "audio": "\/data\/upload\/3\/135b8db4-Purr_JiWBjZBsBss_440000_450000.wav",
+    "id": 268,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 246,
+    "created_at": "2023-06-28T07:05:47.712712Z",
+    "updated_at": "2023-06-28T07:05:47.712796Z",
+    "lead_time": 20.695
+  },
+  {
+    "audio": "\/data\/upload\/3\/656a1137-Purr_kdPJfc5yDz4_19000_29000.wav",
+    "id": 269,
+    "label": [
+      {
+        "start": 0,
+        "end": 9.79275,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 247,
+    "created_at": "2023-06-28T07:06:09.289028Z",
+    "updated_at": "2023-06-28T07:06:09.289122Z",
+    "lead_time": 19.948
+  },
+  {
+    "audio": "\/data\/upload\/3\/6ea24eab-Purr_MgifkqSuScg_30000_40000.wav",
+    "id": 270,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 248,
+    "created_at": "2023-06-28T07:06:31.949337Z",
+    "updated_at": "2023-06-28T07:06:31.949450Z",
+    "lead_time": 19.587
+  },
+  {
+    "audio": "\/data\/upload\/3\/be7e2b09-Purr_qzUmb3iX4nE_30000_40000.wav",
+    "id": 271,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 249,
+    "created_at": "2023-06-28T07:06:52.762145Z",
+    "updated_at": "2023-06-28T07:06:52.762236Z",
+    "lead_time": 19.088
+  },
+  {
+    "audio": "\/data\/upload\/3\/f4270744-Purr_UZn9aKPibFw_17000_27000.wav",
+    "id": 272,
+    "label": [
+      {
+        "start": 0,
+        "end": 7.949624949519231,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 250,
+    "created_at": "2023-06-28T07:07:17.768677Z",
+    "updated_at": "2023-06-28T07:07:17.768762Z",
+    "lead_time": 22.736
+  },
+  {
+    "audio": "\/data\/upload\/3\/53635b15-Purr_vHWK1HmO_-E_50000_60000.wav",
+    "id": 273,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 251,
+    "created_at": "2023-06-28T07:07:40.493290Z",
+    "updated_at": "2023-06-28T07:07:40.493379Z",
+    "lead_time": 21.042
+  },
+  {
+    "audio": "\/data\/upload\/3\/1de471b6-Purr_xRVhyCxkvKU_30000_40000.wav",
+    "id": 274,
+    "annotator": 1,
+    "annotation_id": 252,
+    "created_at": "2023-06-28T07:13:48.814243Z",
+    "updated_at": "2023-06-28T07:13:48.814281Z",
+    "lead_time": 10.937
+  },
+  {
+    "audio": "\/data\/upload\/3\/59895944-Purr_Y8Djd9KeN0s_30000_40000.wav",
+    "id": 275,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 253,
+    "created_at": "2023-06-28T07:14:15.014342Z",
+    "updated_at": "2023-06-28T07:14:15.014424Z",
+    "lead_time": 24.978
+  },
+  {
+    "audio": "\/data\/upload\/3\/f5635b3a-Purr_ZCv1Fu_z37g_30000_40000.wav",
+    "id": 276,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 254,
+    "created_at": "2023-06-28T07:14:41.022120Z",
+    "updated_at": "2023-06-28T07:14:41.022210Z",
+    "lead_time": 24.48
+  },
+  {
+    "audio": "\/data\/upload\/3\/a724e51a-Rain_0IBFokh7zKA_30000_40000.wav",
+    "id": 277,
+    "label": [
+      {
+        "start": 3.822115384615384,
+        "end": 9.266826923076923,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 255,
+    "created_at": "2023-06-28T07:15:03.715711Z",
+    "updated_at": "2023-06-28T07:15:03.715803Z",
+    "lead_time": 21.26
+  },
+  {
+    "audio": "\/data\/upload\/3\/35d4feea-Rain_1q30rbEIL40_30000_40000.wav",
+    "id": 278,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 256,
+    "created_at": "2023-06-28T07:15:20.808162Z",
+    "updated_at": "2023-06-28T07:15:20.808243Z",
+    "lead_time": 15.464
+  },
+  {
+    "audio": "\/data\/upload\/3\/c1f1a4d4-Rain_2PwUvDx7XwM_30000_40000.wav",
+    "id": 279,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 257,
+    "created_at": "2023-06-28T07:15:52.105762Z",
+    "updated_at": "2023-06-28T07:15:52.105852Z",
+    "lead_time": 29.669
+  },
+  {
+    "audio": "\/data\/upload\/3\/42056755-Rain_3FrGz8XzCI8_21000_31000.wav",
+    "id": 280,
+    "label": [
+      {
+        "start": 0,
+        "end": 7.092501953125001,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 258,
+    "created_at": "2023-06-28T07:16:41.024729Z",
+    "updated_at": "2023-06-28T07:16:41.024764Z",
+    "lead_time": 16.333
+  },
+  {
+    "audio": "\/data\/upload\/3\/078dfa45-Rain_3zCK2pKU4yg_30000_40000.wav",
+    "id": 281,
+    "label": [
+      {
+        "start": 0,
+        "end": 2.109375,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 259,
+    "created_at": "2023-06-28T07:16:50.633741Z",
+    "updated_at": "2023-06-28T07:16:50.633826Z",
+    "lead_time": 8.395
+  },
+  {
+    "audio": "\/data\/upload\/3\/230d5508-Rain_4kLtbrBU19c_170000_180000.wav",
+    "id": 282,
+    "label": [
+      {
+        "start": 0,
+        "end": 7.175480769230768,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 260,
+    "created_at": "2023-06-28T07:17:13.754355Z",
+    "updated_at": "2023-06-28T07:17:13.754435Z",
+    "lead_time": 21.688
+  },
+  {
+    "audio": "\/data\/upload\/3\/d6536fbf-Rain_5jvCudNxkVU_0_10000.wav",
+    "id": 283,
+    "label": [
+      {
+        "start": 0.6129807692307692,
+        "end": 8.389423076923077,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 261,
+    "created_at": "2023-06-28T07:17:44.922553Z",
+    "updated_at": "2023-06-28T07:17:44.922637Z",
+    "lead_time": 29.428
+  },
+  {
+    "audio": "\/data\/upload\/3\/e9a55902-Rain_6Hfn3MQyV6c_70000_80000.wav",
+    "id": 284,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 262,
+    "created_at": "2023-06-28T07:18:04.788671Z",
+    "updated_at": "2023-06-28T07:18:04.788755Z",
+    "lead_time": 18.264
+  },
+  {
+    "audio": "\/data\/upload\/3\/efb74e16-Rain_6Pg8Ca92FkY_30000_40000.wav",
+    "id": 285,
+    "label": [
+      {
+        "start": 0,
+        "end": 6.512019230769231,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 263,
+    "created_at": "2023-06-28T07:18:28.154463Z",
+    "updated_at": "2023-06-28T07:18:28.154546Z",
+    "lead_time": 21.414
+  },
+  {
+    "audio": "\/data\/upload\/3\/26103fd6-Rain_9CoRUz1O-qQ_23000_33000.wav",
+    "id": 286,
+    "label": [
+      {
+        "start": 0,
+        "end": 9.515438,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 264,
+    "created_at": "2023-06-28T07:18:50.225619Z",
+    "updated_at": "2023-06-28T07:18:50.225670Z",
+    "lead_time": 20.445
+  },
+  {
+    "audio": "\/data\/upload\/3\/6229c3d3-Rain_19vv-oL7w5c_0_10000.wav",
+    "id": 287,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 265,
+    "created_at": "2023-06-28T07:19:07.768295Z",
+    "updated_at": "2023-06-28T07:19:07.768375Z",
+    "lead_time": 16.124
+  },
+  {
+    "audio": "\/data\/upload\/3\/a928f567-Rain_a85QIyep704_90000_100000.wav",
+    "id": 288,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 266,
+    "created_at": "2023-06-28T07:19:27.627221Z",
+    "updated_at": "2023-06-28T07:19:27.627278Z",
+    "lead_time": 17.874
+  },
+  {
+    "audio": "\/data\/upload\/3\/95fe960f-Rain_BbKA48vMHPI_30000_40000.wav",
+    "id": 289,
+    "label": [
+      {
+        "start": 0,
+        "end": 6.25,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 267,
+    "created_at": "2023-06-28T07:19:45.845040Z",
+    "updated_at": "2023-06-28T07:19:45.845133Z",
+    "lead_time": 16.381
+  },
+  {
+    "audio": "\/data\/upload\/3\/df805c28-Rain_b_hYuLFVCYM_30000_40000.wav",
+    "id": 290,
+    "label": [
+      {
+        "start": 2.7884615384615383,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 268,
+    "created_at": "2023-06-28T07:20:08.607668Z",
+    "updated_at": "2023-06-28T07:20:08.607750Z",
+    "lead_time": 21.294
+  },
+  {
+    "audio": "\/data\/upload\/3\/41b439de-Rain_c4cNk6BEj3U_10000_20000.wav",
+    "id": 291,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 269,
+    "created_at": "2023-06-28T07:20:25.165134Z",
+    "updated_at": "2023-06-28T07:20:25.165220Z",
+    "lead_time": 14.486
+  },
+  {
+    "audio": "\/data\/upload\/3\/5716cf5c-Rain_ClljN0qfK9o_30000_40000.wav",
+    "id": 292,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 270,
+    "created_at": "2023-06-28T07:23:21.150044Z",
+    "updated_at": "2023-06-28T07:23:21.150086Z",
+    "lead_time": 174.672
+  },
+  {
+    "audio": "\/data\/upload\/3\/70dd7d26-Rain_dEG9Y1-HXQU_210000_220000.wav",
+    "id": 293,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 271,
+    "created_at": "2023-06-28T07:23:51.524243Z",
+    "updated_at": "2023-06-28T07:23:51.524338Z",
+    "lead_time": 15.686
+  },
+  {
+    "audio": "\/data\/upload\/3\/92260790-Rain_dN291PLQVqM_30000_40000.wav",
+    "id": 294,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 272,
+    "created_at": "2023-06-28T07:24:11.276307Z",
+    "updated_at": "2023-06-28T07:24:11.276391Z",
+    "lead_time": 18.276
+  },
+  {
+    "audio": "\/data\/upload\/3\/259d26db-Rain_eerBB3hQtyU_30000_40000.wav",
+    "id": 295,
+    "label": [
+      {
+        "start": 0,
+        "end": 5.9014423076923075,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 273,
+    "created_at": "2023-06-28T07:24:39.844132Z",
+    "updated_at": "2023-06-28T07:24:39.844218Z",
+    "lead_time": 25.82
+  },
+  {
+    "audio": "\/data\/upload\/3\/551529d6-Rain_fJe9l7xs3gI_29000_39000.wav",
+    "id": 296,
+    "label": [
+      {
+        "start": 0,
+        "end": 7.1514423076923075,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 274,
+    "created_at": "2023-06-28T07:24:56.781317Z",
+    "updated_at": "2023-06-28T07:24:56.781363Z",
+    "lead_time": 15.786
+  },
+  {
+    "audio": "\/data\/upload\/3\/ec8808d3-Rain_gpdwcBK7azA_30000_40000.wav",
+    "id": 297,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 275,
+    "created_at": "2023-06-28T07:25:20.642796Z",
+    "updated_at": "2023-06-28T07:25:20.642879Z",
+    "lead_time": 21.875
+  },
+  {
+    "audio": "\/data\/upload\/3\/b22238a9-Rain_HeS6w7oo_aM_30000_40000.wav",
+    "id": 298,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 276,
+    "created_at": "2023-06-28T07:25:43.476034Z",
+    "updated_at": "2023-06-28T07:25:43.476126Z",
+    "lead_time": 21.199
+  },
+  {
+    "audio": "\/data\/upload\/3\/aa1bf595-Rain_IAccdvmusOs_1000_11000.wav",
+    "id": 299,
+    "annotator": 1,
+    "annotation_id": 277,
+    "created_at": "2023-06-28T07:25:55.960279Z",
+    "updated_at": "2023-06-28T07:25:55.960364Z",
+    "lead_time": 10.82
+  },
+  {
+    "audio": "\/data\/upload\/3\/bb9c07f0-Rain_mZIZ9fwmXpE_10000_20000.wav",
+    "id": 300,
+    "label": [
+      {
+        "start": 5.372596153846154,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      },
+      {
+        "start": 0,
+        "end": 4.543269230769231,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 278,
+    "created_at": "2023-06-28T07:26:18.206517Z",
+    "updated_at": "2023-06-28T07:26:18.206601Z",
+    "lead_time": 20.769
+  },
+  {
+    "audio": "\/data\/upload\/3\/71fd2fd5-Rain_oyF3D8ZO84c_30000_40000.wav",
+    "id": 301,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 279,
+    "created_at": "2023-06-28T07:26:55.016111Z",
+    "updated_at": "2023-06-28T07:26:55.016195Z",
+    "lead_time": 17.791
+  },
+  {
+    "audio": "\/data\/upload\/3\/693f8473-Rain_RUuQWfxcm3s_10000_20000.wav",
+    "id": 302,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 280,
+    "created_at": "2023-06-28T07:27:11.671046Z",
+    "updated_at": "2023-06-28T07:27:11.671174Z",
+    "lead_time": 14.793
+  },
+  {
+    "audio": "\/data\/upload\/3\/fbc465ab-Rain_u8KAgETjNQE_110000_120000.wav",
+    "id": 303,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 281,
+    "created_at": "2023-06-28T07:27:23.979097Z",
+    "updated_at": "2023-06-28T07:27:54.198603Z",
+    "lead_time": 40.922
+  },
+  {
+    "audio": "\/data\/upload\/3\/69dababa-Rain_xLzisa_5wgQ_70000_80000.wav",
+    "id": 304,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 282,
+    "created_at": "2023-06-28T07:28:27.295499Z",
+    "updated_at": "2023-06-28T07:28:27.295586Z",
+    "lead_time": 31.159
+  },
+  {
+    "audio": "\/data\/upload\/3\/1171371a-Rain_Xzva-q3c8kc_0_10000.wav",
+    "id": 305,
+    "label": [
+      {
+        "start": 1.346153846153846,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 283,
+    "created_at": "2023-06-28T07:28:46.490320Z",
+    "updated_at": "2023-06-28T07:28:46.490411Z",
+    "lead_time": 17.588
+  },
+  {
+    "audio": "\/data\/upload\/3\/0703cf5a-Rain_yu1tV5OkM7E_0_10000.wav",
+    "id": 306,
+    "label": [
+      {
+        "start": 2.1875,
+        "end": 9.182692307692307,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 284,
+    "created_at": "2023-06-28T07:29:02.252549Z",
+    "updated_at": "2023-06-28T07:29:02.252641Z",
+    "lead_time": 14.562
+  },
+  {
+    "audio": "\/data\/upload\/3\/9a4af698-Rain_zLZFWdYYQd8_40000_50000.wav",
+    "id": 307,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 285,
+    "created_at": "2023-06-28T07:29:30.983356Z",
+    "updated_at": "2023-06-28T07:29:30.983441Z",
+    "lead_time": 26.944
+  },
+  {
+    "audio": "\/data\/upload\/3\/139a0b61-Vacuumcleaner_0F_RFWvp8cY_270000_280000.wav",
+    "id": 308,
+    "label": [
+      {
+        "start": 0.721153846153846,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 286,
+    "created_at": "2023-06-28T07:29:56.416781Z",
+    "updated_at": "2023-06-28T07:29:56.416868Z",
+    "lead_time": 24.005
+  },
+  {
+    "audio": "\/data\/upload\/3\/fe5d465f-Vacuumcleaner_0yCFCh8e10Y_10000_20000.wav",
+    "id": 309,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 287,
+    "created_at": "2023-06-28T07:30:14.519310Z",
+    "updated_at": "2023-06-28T07:30:14.519396Z",
+    "lead_time": 16.426
+  },
+  {
+    "audio": "\/data\/upload\/3\/a3a3fb67-Vacuumcleaner_2Cv0_9ezILU_30000_40000.wav",
+    "id": 310,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 288,
+    "created_at": "2023-06-28T07:30:33.504273Z",
+    "updated_at": "2023-06-28T07:30:33.504386Z",
+    "lead_time": 17.372
+  },
+  {
+    "audio": "\/data\/upload\/3\/89bc3101-Vacuumcleaner_2jQwv1d0DyU_30000_40000.wav",
+    "id": 311,
+    "annotator": 1,
+    "annotation_id": 289,
+    "created_at": "2023-06-28T07:30:51.480096Z",
+    "updated_at": "2023-06-28T07:30:51.480180Z",
+    "lead_time": 16.332
+  },
+  {
+    "audio": "\/data\/upload\/3\/a5637271-Vacuumcleaner_2VMS64fFJps_170000_180000.wav",
+    "id": 312,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 290,
+    "created_at": "2023-06-28T07:31:21.960586Z",
+    "updated_at": "2023-06-28T07:31:21.960677Z",
+    "lead_time": 29.071
+  },
+  {
+    "audio": "\/data\/upload\/3\/e1cc48aa-Vacuumcleaner_3d0dg7tCqSc_250000_260000.wav",
+    "id": 313,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 291,
+    "created_at": "2023-06-28T07:37:14.965869Z",
+    "updated_at": "2023-06-28T07:37:14.965961Z",
+    "lead_time": 16.017
+  },
+  {
+    "audio": "\/data\/upload\/3\/f4b6ca3b-Vacuumcleaner_3oZLoVYIHFQ_50000_60000.wav",
+    "id": 314,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 292,
+    "created_at": "2023-06-28T07:37:32.225208Z",
+    "updated_at": "2023-06-28T07:37:32.225302Z",
+    "lead_time": 15.62
+  },
+  {
+    "audio": "\/data\/upload\/3\/af8fae49-Vacuumcleaner_3yJv3ElMC4E_160000_170000.wav",
+    "id": 315,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 293,
+    "created_at": "2023-06-28T07:37:51.842577Z",
+    "updated_at": "2023-06-28T07:37:51.842660Z",
+    "lead_time": 17.61
+  },
+  {
+    "audio": "\/data\/upload\/3\/f7e43541-Vacuumcleaner_05NNBR1PCiw_150000_160000.wav",
+    "id": 316,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 294,
+    "created_at": "2023-06-28T07:38:10.015036Z",
+    "updated_at": "2023-06-28T07:38:10.015134Z",
+    "lead_time": 16.273
+  },
+  {
+    "audio": "\/data\/upload\/3\/6f498f87-Vacuumcleaner_6-2SCYUDBZw_30000_40000.wav",
+    "id": 317,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 295,
+    "created_at": "2023-06-28T07:38:29.999236Z",
+    "updated_at": "2023-06-28T07:38:29.999338Z",
+    "lead_time": 18.544
+  },
+  {
+    "audio": "\/data\/upload\/3\/4945db04-Vacuumcleaner_6agI5a-5TGY_270000_280000.wav",
+    "id": 318,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 296,
+    "created_at": "2023-06-28T07:38:51.629469Z",
+    "updated_at": "2023-06-28T07:38:51.629555Z",
+    "lead_time": 19.767
+  },
+  {
+    "audio": "\/data\/upload\/3\/34aceecb-Vacuumcleaner_6mBfajqi1pg_560000_570000.wav",
+    "id": 319,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 297,
+    "created_at": "2023-06-28T07:39:09.864252Z",
+    "updated_at": "2023-06-28T07:39:09.864347Z",
+    "lead_time": 16.955
+  },
+  {
+    "audio": "\/data\/upload\/3\/1c0564be-Vacuumcleaner_6qGCOVxywo4_60000_70000.wav",
+    "id": 320,
+    "label": [
+      {
+        "start": 4.627403846153847,
+        "end": 8.449519230769232,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 298,
+    "created_at": "2023-06-28T07:39:45.546536Z",
+    "updated_at": "2023-06-28T07:39:45.546620Z",
+    "lead_time": 34.317
+  },
+  {
+    "audio": "\/data\/upload\/3\/d53e2830-Vacuumcleaner_6xzc5Y-78-s_100000_110000.wav",
+    "id": 321,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 299,
+    "created_at": "2023-06-28T07:40:04.739819Z",
+    "updated_at": "2023-06-28T07:40:04.739918Z",
+    "lead_time": 17.529
+  },
+  {
+    "audio": "\/data\/upload\/3\/4b6bf8b9-Vacuumcleaner_7bPt8dhIAiU_120000_130000.wav",
+    "id": 322,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 300,
+    "created_at": "2023-06-28T07:40:22.980182Z",
+    "updated_at": "2023-06-28T07:40:22.980278Z",
+    "lead_time": 16.649
+  },
+  {
+    "audio": "\/data\/upload\/3\/73dbd9f9-Vacuumcleaner_-8kh4JEvkzw_0_10000.wav",
+    "id": 323,
+    "label": [
+      {
+        "start": 2.2596153846153846,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 301,
+    "created_at": "2023-06-28T07:40:49.518661Z",
+    "updated_at": "2023-06-28T07:40:49.518781Z",
+    "lead_time": 24.696
+  },
+  {
+    "audio": "\/data\/upload\/3\/aa920594-Vacuumcleaner_MVdorpZhKfI_20000_30000.wav",
+    "id": 324,
+    "label": [
+      {
+        "start": 0,
+        "end": 7.704326923076923,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 302,
+    "created_at": "2023-06-28T07:41:05.452702Z",
+    "updated_at": "2023-06-28T07:41:05.452752Z",
+    "lead_time": 14.479
+  },
+  {
+    "audio": "\/data\/upload\/3\/849be8a5-Vacuumcleaner_mZRtVePnNL0_380000_390000.wav",
+    "id": 325,
+    "label": [
+      {
+        "start": 0,
+        "end": 8.112980769230768,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 303,
+    "created_at": "2023-06-28T07:41:21.082149Z",
+    "updated_at": "2023-06-28T07:41:21.082244Z",
+    "lead_time": 14.295
+  },
+  {
+    "audio": "\/data\/upload\/3\/a948374a-Vacuumcleaner_oLJJ8Y2c5Iw_260000_270000.wav",
+    "id": 326,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 304,
+    "created_at": "2023-06-28T07:41:42.650824Z",
+    "updated_at": "2023-06-28T07:41:42.650905Z",
+    "lead_time": 20.19
+  },
+  {
+    "audio": "\/data\/upload\/3\/d3e50d46-Vacuumcleaner_Oyg7tWu11cc_70000_80000.wav",
+    "id": 327,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 305,
+    "created_at": "2023-06-28T07:42:01.302265Z",
+    "updated_at": "2023-06-28T07:42:01.302350Z",
+    "lead_time": 16.962
+  },
+  {
+    "audio": "\/data\/upload\/3\/f3dd6529-Vacuumcleaner__pOl_t4f-lQ_140000_150000.wav",
+    "id": 328,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 306,
+    "created_at": "2023-06-28T07:56:03.358301Z",
+    "updated_at": "2023-06-28T07:56:03.358392Z",
+    "lead_time": 88.298
+  },
+  {
+    "audio": "\/data\/upload\/3\/80095f52-Vacuumcleaner_Q1Y8qjP0XTY_130000_140000.wav",
+    "id": 329,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 307,
+    "created_at": "2023-06-28T07:56:20.067074Z",
+    "updated_at": "2023-06-28T07:56:20.067187Z",
+    "lead_time": 15.179
+  },
+  {
+    "audio": "\/data\/upload\/3\/1f3de79d-Vacuumcleaner_T8iivMlZj2U_10000_20000.wav",
+    "id": 330,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 308,
+    "created_at": "2023-06-28T07:56:40.937701Z",
+    "updated_at": "2023-06-28T07:56:40.937792Z",
+    "lead_time": 19.627
+  },
+  {
+    "audio": "\/data\/upload\/3\/4ca6e46c-Vacuumcleaner_VOihip-yICA_20000_30000.wav",
+    "id": 331,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 309,
+    "created_at": "2023-06-28T07:56:58.391245Z",
+    "updated_at": "2023-06-28T07:56:58.391327Z",
+    "lead_time": 15.821
+  },
+  {
+    "audio": "\/data\/upload\/3\/bc57dba6-Vacuumcleaner_vZaYGIQMO_A_350000_360000.wav",
+    "id": 332,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 310,
+    "created_at": "2023-06-28T07:57:15.666504Z",
+    "updated_at": "2023-06-28T07:57:15.666597Z",
+    "lead_time": 15.877
+  },
+  {
+    "audio": "\/data\/upload\/3\/88fd781c-Vacuumcleaner_WuIZiH__gYQ_130000_140000.wav",
+    "id": 333,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 311,
+    "created_at": "2023-06-28T07:57:34.722936Z",
+    "updated_at": "2023-06-28T07:57:34.723029Z",
+    "lead_time": 17.806
+  },
+  {
+    "audio": "\/data\/upload\/3\/ce53163f-Vacuumcleaner_XREdR4ABAdw_140000_150000.wav",
+    "id": 334,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 312,
+    "created_at": "2023-06-28T07:57:55.023134Z",
+    "updated_at": "2023-06-28T07:57:55.023237Z",
+    "lead_time": 18.558
+  },
+  {
+    "audio": "\/data\/upload\/3\/0f5ce62d-Vacuumcleaner_YOwu_iR4f6s_50000_60000.wav",
+    "id": 335,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 313,
+    "created_at": "2023-06-28T07:58:20.543945Z",
+    "updated_at": "2023-06-28T07:58:20.544036Z",
+    "lead_time": 23.876
+  },
+  {
+    "audio": "\/data\/upload\/3\/e5d60c94-Vacuumcleaner_Yt2qogRofnk_30000_40000.wav",
+    "id": 336,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 314,
+    "created_at": "2023-06-28T07:58:43.154020Z",
+    "updated_at": "2023-06-28T07:58:43.154100Z",
+    "lead_time": 21.023
+  },
+  {
+    "audio": "\/data\/upload\/3\/8116bea4-Vacuumcleaner_zOfdfdcFHrg_280000_290000.wav",
+    "id": 337,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 315,
+    "created_at": "2023-06-28T07:59:01.116270Z",
+    "updated_at": "2023-06-28T07:59:01.116373Z",
+    "lead_time": 16.208
+  },
+  {
+    "audio": "\/data\/upload\/3\/5d24ab29-Vacuumcleaner_ZYO_XKKRsyk_140000_150000.wav",
+    "id": 338,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 316,
+    "created_at": "2023-06-28T07:59:19.572381Z",
+    "updated_at": "2023-06-28T07:59:21.537100Z",
+    "lead_time": 18.727
+  },
+  {
+    "audio": "\/data\/upload\/3\/179a4764-Walkfootsteps_0CU6ZLqtPxE_30000_40000.wav",
+    "id": 339,
+    "label": [
+      {
+        "start": 5.516826923076923,
+        "end": 8.377403846153845,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      },
+      {
+        "start": 1.2259615384615383,
+        "end": 4.206730769230769,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 317,
+    "created_at": "2023-06-28T08:00:01.043504Z",
+    "updated_at": "2023-06-28T08:00:01.043589Z",
+    "lead_time": 37.657
+  },
+  {
+    "audio": "\/data\/upload\/3\/81045179-Walkfootsteps_1ACKLwRs1oc_30000_40000.wav",
+    "id": 340,
+    "label": [
+      {
+        "start": 0,
+        "end": 1.754807692307692,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      },
+      {
+        "start": 3.28125,
+        "end": 6.2860576923076925,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 318,
+    "created_at": "2023-06-28T08:14:37.567060Z",
+    "updated_at": "2023-06-28T08:14:37.567177Z",
+    "lead_time": 874.598
+  },
+  {
+    "audio": "\/data\/upload\/3\/a629c53a-Walkfootsteps_1CK1c-c-4Pk_30000_40000.wav",
+    "id": 341,
+    "label": [
+      {
+        "start": 3.713942307692308,
+        "end": 6.646634615384615,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      },
+      {
+        "start": 8.088942307692307,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 319,
+    "created_at": "2023-06-28T08:15:01.601340Z",
+    "updated_at": "2023-06-28T08:15:32.789378Z",
+    "lead_time": 53.297
+  },
+  {
+    "audio": "\/data\/upload\/3\/386edf12-Walkfootsteps_1gqMCIjRCss_30000_40000.wav",
+    "id": 342,
+    "label": [
+      {
+        "start": 1.9591346153846154,
+        "end": 6.502403846153846,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 320,
+    "created_at": "2023-06-28T08:15:52.312308Z",
+    "updated_at": "2023-06-28T08:15:52.312400Z",
+    "lead_time": 18.011
+  },
+  {
+    "audio": "\/data\/upload\/3\/be471477-Walkfootsteps_1uodgg6hVNc_0_5000.wav",
+    "id": 343,
+    "label": [
+      {
+        "start": 0,
+        "end": 4,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 321,
+    "created_at": "2023-06-28T08:16:06.297363Z",
+    "updated_at": "2023-06-28T08:16:06.297460Z",
+    "lead_time": 12.264
+  },
+  {
+    "audio": "\/data\/upload\/3\/c70424c5-Walkfootsteps_2DvVhq-7C44_12000_22000.wav",
+    "id": 344,
+    "annotator": 1,
+    "annotation_id": 322,
+    "created_at": "2023-06-28T08:16:17.880981Z",
+    "updated_at": "2023-06-28T08:16:17.881045Z",
+    "lead_time": 10.451
+  },
+  {
+    "audio": "\/data\/upload\/3\/da20c743-Walkfootsteps_3HM5eWNe11g_10000_20000.wav",
+    "id": 345,
+    "label": [
+      {
+        "start": 0,
+        "end": 6.826923076923077,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 323,
+    "created_at": "2023-06-28T08:16:41.759195Z",
+    "updated_at": "2023-06-28T08:16:41.759282Z",
+    "lead_time": 22.213
+  },
+  {
+    "audio": "\/data\/upload\/3\/c66892fd-Walkfootsteps_4IYZO7bdYFw_0_5000.wav",
+    "id": 346,
+    "label": [
+      {
+        "start": 0.5331707307692308,
+        "end": 4.620813,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 324,
+    "created_at": "2023-06-28T08:16:59.797913Z",
+    "updated_at": "2023-06-28T08:16:59.798004Z",
+    "lead_time": 16.452
+  },
+  {
+    "audio": "\/data\/upload\/3\/b193c102-Walkfootsteps_8xlXgRixiRw_10000_20000.wav",
+    "id": 347,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 325,
+    "created_at": "2023-06-28T08:17:17.250411Z",
+    "updated_at": "2023-06-28T08:17:17.250503Z",
+    "lead_time": 16.094
+  },
+  {
+    "audio": "\/data\/upload\/3\/ac9a170a-Walkfootsteps_BF1c2Cke5uE_90000_100000.wav",
+    "id": 348,
+    "label": [
+      {
+        "start": 4.110576923076923,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 326,
+    "created_at": "2023-06-28T08:17:36.657686Z",
+    "updated_at": "2023-06-28T08:17:36.657741Z",
+    "lead_time": 18.137
+  },
+  {
+    "audio": "\/data\/upload\/3\/f4d2f3d0-Walkfootsteps_DSLeZT90ziM_10000_20000.wav",
+    "id": 349,
+    "label": [
+      {
+        "start": 0,
+        "end": 7.853365384615385,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 327,
+    "created_at": "2023-06-28T08:17:51.355312Z",
+    "updated_at": "2023-06-28T08:17:51.355396Z",
+    "lead_time": 13.4
+  },
+  {
+    "audio": "\/data\/upload\/3\/f2a7a282-Walkfootsteps_ESzUvGvtHug_400000_410000.wav",
+    "id": 350,
+    "label": [
+      {
+        "start": 0.4447115384615385,
+        "end": 4.4951923076923075,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      },
+      {
+        "start": 5.480769230769232,
+        "end": 9.086538461538462,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 328,
+    "created_at": "2023-06-28T08:18:28.895053Z",
+    "updated_at": "2023-06-28T08:18:28.895143Z",
+    "lead_time": 36.043
+  },
+  {
+    "audio": "\/data\/upload\/3\/25150566-Walkfootsteps_MMw1XswBb1Q_60000_70000.wav",
+    "id": 351,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 329,
+    "created_at": "2023-06-28T08:18:48.345961Z",
+    "updated_at": "2023-06-28T08:18:48.346051Z",
+    "lead_time": 16.717
+  },
+  {
+    "audio": "\/data\/upload\/3\/e2c9a39b-Walkfootsteps_OaauIacSLt0_16000_26000.wav",
+    "id": 352,
+    "label": [
+      {
+        "start": 0,
+        "end": 6.287632512019231,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 330,
+    "created_at": "2023-06-28T08:19:06.827714Z",
+    "updated_at": "2023-06-28T08:19:06.827799Z",
+    "lead_time": 17.175
+  },
+  {
+    "audio": "\/data\/upload\/3\/76838e15-Walkfootsteps_t5dP27KEQ7k_100000_110000.wav",
+    "id": 353,
+    "label": [
+      {
+        "start": 0,
+        "end": 8.353365384615385,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 331,
+    "created_at": "2023-06-28T08:38:53.154067Z",
+    "updated_at": "2023-06-28T08:38:53.154153Z",
+    "lead_time": 14.809
+  },
+  {
+    "audio": "\/data\/upload\/3\/03783422-Walkfootsteps_VVMkSmi3NXA_0_7000.wav",
+    "id": 354,
+    "label": [
+      {
+        "start": 0.8352463942307693,
+        "end": 6.94925,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 332,
+    "created_at": "2023-06-28T08:39:07.236283Z",
+    "updated_at": "2023-06-28T08:39:07.236378Z",
+    "lead_time": 12.605
+  },
+  {
+    "audio": "\/data\/upload\/3\/4dbab26c-Walkfootsteps_XQrTsdRWSCE_170000_180000.wav",
+    "id": 355,
+    "label": [
+      {
+        "start": 2.9927884615384617,
+        "end": 9.483173076923077,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 333,
+    "created_at": "2023-06-28T08:39:24.056771Z",
+    "updated_at": "2023-06-28T08:39:24.056865Z",
+    "lead_time": 15.029
+  },
+  {
+    "audio": "\/data\/upload\/3\/80c91f96-Watertap_0RHS3QmHOVE_10000_20000.wav",
+    "id": 356,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 334,
+    "created_at": "2023-06-28T08:39:43.828476Z",
+    "updated_at": "2023-06-28T08:39:43.828567Z",
+    "lead_time": 17.794
+  },
+  {
+    "audio": "\/data\/upload\/3\/5ada2758-Watertap_6JpSAWhLg7A_90000_100000.wav",
+    "id": 357,
+    "annotator": 1,
+    "annotation_id": 335,
+    "created_at": "2023-06-28T08:39:53.393017Z",
+    "updated_at": "2023-06-28T08:39:53.393100Z",
+    "lead_time": 8.147
+  },
+  {
+    "audio": "\/data\/upload\/3\/6082d684-Watertap_8FhaI_2Sirk_40000_50000.wav",
+    "id": 358,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 336,
+    "created_at": "2023-06-28T08:40:12.416982Z",
+    "updated_at": "2023-06-28T08:40:12.417076Z",
+    "lead_time": 17.515
+  },
+  {
+    "audio": "\/data\/upload\/3\/21dfc00b-Watertap_EWv_n95C7WY_70000_80000.wav",
+    "id": 359,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 337,
+    "created_at": "2023-06-28T08:40:36.594224Z",
+    "updated_at": "2023-06-28T08:40:36.594332Z",
+    "lead_time": 22.559
+  },
+  {
+    "audio": "\/data\/upload\/3\/e6909b19-Watertap_IVlxcDAAnWo_20000_30000.wav",
+    "id": 360,
+    "label": [
+      {
+        "start": 0,
+        "end": 8.930288461538462,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 338,
+    "created_at": "2023-06-28T08:41:22.630374Z",
+    "updated_at": "2023-06-28T08:41:22.630438Z",
+    "lead_time": 43.657
+  },
+  {
+    "audio": "\/data\/upload\/3\/3ded31e2-Watertap_MTzjwt0Sgo0_10000_20000.wav",
+    "id": 361,
+    "label": [
+      {
+        "start": 0,
+        "end": 9.014423076923077,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 339,
+    "created_at": "2023-06-28T08:41:42.622801Z",
+    "updated_at": "2023-06-28T08:41:42.622850Z",
+    "lead_time": 18.852
+  },
+  {
+    "audio": "\/data\/upload\/3\/0b900f7b-Watertap_NrCxDzUjYzY_100000_110000.wav",
+    "id": 362,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 340,
+    "created_at": "2023-06-28T08:42:03.020598Z",
+    "updated_at": "2023-06-28T08:42:03.020617Z",
+    "lead_time": 19.231
+  },
+  {
+    "audio": "\/data\/upload\/3\/0cdbaa74-Watertap_okyKlc5B0_8_0_10000.wav",
+    "id": 363,
+    "label": [
+      {
+        "start": 0,
+        "end": 6.3701923076923075,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 341,
+    "created_at": "2023-06-28T08:42:25.657672Z",
+    "updated_at": "2023-06-28T08:42:25.657725Z",
+    "lead_time": 21.328
+  },
+  {
+    "audio": "\/data\/upload\/3\/7e1940bb-Watertap_Qda_wm8ptTw_490000_500000.wav",
+    "id": 364,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 342,
+    "created_at": "2023-06-28T08:42:42.391974Z",
+    "updated_at": "2023-06-28T08:42:42.392023Z",
+    "lead_time": 15.267
+  },
+  {
+    "audio": "\/data\/upload\/3\/f553b263-Watertap_UYgi_RshJJE_70000_80000.wav",
+    "id": 365,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 343,
+    "created_at": "2023-06-28T08:42:58.989782Z",
+    "updated_at": "2023-06-28T08:42:58.989801Z",
+    "lead_time": 15.662
+  },
+  {
+    "audio": "\/data\/upload\/3\/748ac361-Watertap_ZbF6-oQprnE_30000_40000.wav",
+    "id": 366,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "channel": 0,
+        "labels": [
+          "keep"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 344,
+    "created_at": "2023-06-28T08:43:17.892178Z",
+    "updated_at": "2023-06-28T08:43:17.892211Z",
+    "lead_time": 17.787
+  }
+]
