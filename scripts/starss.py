@@ -33,7 +33,9 @@ CLASSES = {
     9: "Musical instrument",
     10: "Water tap, faucet",
     11: "Bell",
-    12: "Knock"
+    12: "Knock",
+    13: "Vacuum cleaner",
+    14: "Air conditioning"
 }
 
 CLASSES_NAME = {
@@ -43,14 +45,19 @@ CLASSES_NAME = {
     3: "Telephone",
     4: "Laughter",
     5: "Domestic_sounds",
-    6: "Walk_footsteps",
+    6: "Walkfootsteps",
     7: "Door",
     8: "Music",
     9: "Musical_instrument",
-    10: "Water_tap",
+    10: "Watertap",
     11: "Bell",
-    12: "Knock"
+    12: "Knock",
+    13: "Vacuumcleaner",
+    14: "Airconditioning"
 }
+
+REMOVED_CLASSES = [3, 4, 7, 8, 9, 11]
+
 
 logger = logging.getLogger(__name__)
 
@@ -162,7 +169,8 @@ class StarssData:
 
     def prepare_data(self) -> None:
         self.data = self.exclude_multiple_noises(self.original_data)
-        self.data = self.remove_class(self.data)
+        for index in REMOVED_CLASSES:
+            self.data = self.remove_class(self.data, index)
 
     def save_metadata_classes(self, path: str) -> None:
         self.metadata_classes.to_csv(path)
